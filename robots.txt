@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /uploads/
 
 Sitemap: https://almasa-glass.com/sitemap.xml
