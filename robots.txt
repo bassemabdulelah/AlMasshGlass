@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /uploads/
 
-Sitemap: https://almasa-glass.com/sitemap.xml
+Sitemap: https://almasa-glass.netlify.app/sitemap.xml
