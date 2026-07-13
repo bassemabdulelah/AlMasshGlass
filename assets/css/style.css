@@ -437,9 +437,342 @@ ul {
     height: auto;
 }
 
+
+
+/* ====== تنسيق الشبكة الكاملة للأنواع ====== */
+.types-full-grid {
+    margin-top: 40px;
+    padding-top: 30px;
+    border-top: 2px solid rgba(0,180,216,0.15);
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.types-full-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: #F8FAFC;
+    border-radius: 12px;
+    margin-bottom: 30px;
+}
+
+.types-full-header h3 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin: 0;
+    color: #0F1A2C;
+}
+
+.types-full-header h3 span {
+    color: #00B4D8;
+}
+
+.close-types {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    background: #FEE2E2;
+    color: #EF4444;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.close-types:hover {
+    background: #EF4444;
+    color: #fff;
+    transform: rotate(90deg);
+}
+
+/* ====== عناصر الأنواع داخل الشبكة الكاملة ====== */
+.type-full-item {
+    background: #fff;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    margin-bottom: 30px;
+    transition: all 0.3s ease;
+}
+
+.type-full-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+}
+
+.type-full-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+}
+
+.type-full-item.reverse .type-full-content {
+    direction: ltr;
+}
+
+.type-full-item.reverse .type-full-content .type-full-text {
+    direction: rtl;
+}
+
+.type-full-item.reverse .type-full-content .type-full-image {
+    order: 2;
+}
+
+.type-full-item.reverse .type-full-content .type-full-text {
+    order: 1;
+}
+
+.type-full-image {
+    position: relative;
+    overflow: hidden;
+    min-height: 350px;
+    background: #0F1A2C;
+}
+
+.type-full-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    min-height: 350px;
+    transition: transform 0.5s ease;
+}
+
+.type-full-item:hover .type-full-image img {
+    transform: scale(1.05);
+}
+
+.type-image-badge {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: #00B4D8;
+    color: #fff;
+    padding: 6px 20px;
+    border-radius: 30px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    box-shadow: 0 4px 15px rgba(0,180,216,0.3);
+}
+
+.type-full-text {
+    padding: 35px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.type-badge {
+    display: inline-block;
+    background: rgba(0,180,216,0.1);
+    color: #00B4D8;
+    padding: 4px 16px;
+    border-radius: 30px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    align-self: flex-start;
+}
+
+.type-full-text h3 {
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin: 0 0 15px;
+    color: #0F1A2C;
+}
+
+.type-full-desc {
+    font-size: 0.95rem;
+    line-height: 1.8;
+    color: #4B5563;
+    margin-bottom: 20px;
+}
+
+.type-full-desc strong {
+    color: #0F1A2C;
+}
+
+.type-full-features {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 20px;
+    margin-bottom: 20px;
+}
+
+.feature-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.9rem;
+    color: #4B5563;
+}
+
+.feature-item i {
+    color: #00B4D8;
+    font-size: 1rem;
+    flex-shrink: 0;
+}
+
+.feature-item strong {
+    color: #0F1A2C;
+}
+
+.type-full-uses {
+    padding: 12px 18px;
+    background: #F8FAFC;
+    border-radius: 10px;
+    border: 1px solid #E5E7EB;
+    margin-bottom: 20px;
+}
+
+.type-full-uses strong {
+    display: block;
+    color: #0F1A2C;
+    font-size: 0.85rem;
+    margin-bottom: 6px;
+}
+
+.type-full-uses span {
+    display: inline-block;
+    background: #fff;
+    color: #4B5563;
+    padding: 3px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    margin: 2px 4px;
+    border: 1px solid #E5E7EB;
+}
+
+.btn-primary.type-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(135deg, #00B4D8, #0098B8);
+    color: #fff;
+    padding: 12px 30px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    align-self: flex-start;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-primary.type-cta:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(0,180,216,0.4);
+}
+
+/* ====== استجابة للشاشات الصغيرة ====== */
+@media (max-width: 992px) {
+    .type-full-content {
+        grid-template-columns: 1fr;
+    }
+    
+    .type-full-image {
+        min-height: 250px;
+        order: 1 !important;
+    }
+    
+    .type-full-image img {
+        min-height: 250px;
+    }
+    
+    .type-full-text {
+        padding: 25px 20px;
+        order: 2 !important;
+    }
+    
+    .type-full-item.reverse .type-full-content {
+        direction: rtl;
+    }
+    
+    .type-full-item.reverse .type-full-content .type-full-image {
+        order: 1 !important;
+    }
+    
+    .type-full-item.reverse .type-full-content .type-full-text {
+        order: 2 !important;
+    }
+    
+    .type-full-text h3 {
+        font-size: 1.5rem;
+    }
+    
+    .type-full-features {
+        grid-template-columns: 1fr;
+        gap: 8px;
+    }
+}
+
+@media (max-width: 576px) {
+    .types-full-header {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+    
+    .types-full-header h3 {
+        font-size: 1.2rem;
+    }
+    
+    .type-full-image {
+        min-height: 200px;
+    }
+    
+    .type-full-image img {
+        min-height: 200px;
+    }
+    
+    .type-full-text {
+        padding: 20px 15px;
+    }
+    
+    .type-full-text h3 {
+        font-size: 1.3rem;
+    }
+    
+    .type-full-desc {
+        font-size: 0.85rem;
+    }
+    
+    .type-full-uses span {
+        font-size: 0.7rem;
+        padding: 2px 10px;
+    }
+    
+    .btn-primary.type-cta {
+        padding: 10px 20px;
+        font-size: 0.85rem;
+        width: 100%;
+        justify-content: center;
+    }
+
+    
+    
+    .type-image-badge {
+        top: 12px;
+        right: 12px;
+        font-size: 0.7rem;
+        padding: 4px 14px;
+    }
+}
 /* ============================================================ */
 /* 6. الأقسام العامة                                            */
 /* ============================================================ */
+
+
+
 
 section {
     padding: 60px 0;
