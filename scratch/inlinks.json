@@ -1,0 +1,1482 @@
+{
+  "about.html": [
+    {
+      "from": "about.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "about.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "index.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "index.html",
+      "anchor": "تعرف علينا أكثر"
+    },
+    {
+      "from": "index.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "من نحن"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "من نحن"
+    }
+  ],
+  "contact.html": [
+    {
+      "from": "about.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "about.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "about.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "index.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "index.html",
+      "anchor": "اطلب استشارة مجانية"
+    },
+    {
+      "from": "index.html",
+      "anchor": "أرسل رسالة"
+    },
+    {
+      "from": "index.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "اطلب استشارة مجانية"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "احصل على استشارة مجانية"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "احصل على استشارة مجانية"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "احصل على عرض سعر"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "احصل على استشارة مجانية"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "اطلب استشارة مجانية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "احصل على استشارة ومعاينة"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "طلب معاينة لمكتبك أو شركتك"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "احصل على استشارة مجانية"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "احصل على عرض سعر"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "احصل على استشارة مجانية"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "احصل على استشارة مجانية"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "احصل على استشارة مجانية"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "تواصل معنا الآن"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "اتصل بنا"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "طلب عرض سعر واستشارة"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "اتصل بنا"
+    }
+  ],
+  "faq.html": [
+    {
+      "from": "about.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "about.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "index.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "index.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "الأسئلة"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "الأسئلة"
+    }
+  ],
+  "index.html": [
+    {
+      "from": "about.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "about.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "about.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "about.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "index.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "index.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "index.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "الماسة للزجاج"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "الرئيسية"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "الرئيسية"
+    }
+  ],
+  "projects.html": [
+    {
+      "from": "about.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "about.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "index.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "index.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "المشاريع"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "المشاريع"
+    }
+  ],
+  "services/clear-glass.html": [
+    {
+      "from": "about.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "index.html",
+      "anchor": "واجهات زجاجية"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "واجهات زجاجية"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "واجهات زجاجية"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "تركيب واجهات زجاجية"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "واجهات زجاجية"
+    }
+  ],
+  "services/frosted-glass.html": [
+    {
+      "from": "about.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "index.html",
+      "anchor": "زجاج سكريت"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "زجاج سكريت"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "زجاج سكريت"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "تركيب زجاج سكريت"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "زجاج سكريت"
+    }
+  ],
+  "services/glass-doors.html": [
+    {
+      "from": "about.html",
+      "anchor": "تركيب أبواب زجاجية"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "تركيب أبواب زجاجية"
+    },
+    {
+      "from": "index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "index.html",
+      "anchor": "أبواب زجاجية"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "تركيب أبواب زجاجية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "أبواب زجاجية"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "أبواب زجاجية"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "أبواب زجاجية"
+    }
+  ],
+  "services/index.html": [
+    {
+      "from": "about.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "about.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "index.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "index.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "index.html",
+      "anchor": "عرض جميع الخدمات"
+    },
+    {
+      "from": "index.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "خدماتنا"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "الخدمات"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "خدماتنا"
+    }
+  ],
+  "services/mirrors.html": [
+    {
+      "from": "index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "index.html",
+      "anchor": "مرايا ديكورية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "مرايا ديكورية"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "مرايا ديكورية"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "مرايا ديكورية"
+    }
+  ],
+  "services/partitions.html": [
+    {
+      "from": "about.html",
+      "anchor": "تركيب فواصل زجاجية"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "تركيب فواصل زجاجية"
+    },
+    {
+      "from": "index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "index.html",
+      "anchor": "قواطع وفواصل زجاجية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "قواطع وفواصل زجاجية"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "قواطع وفواصل زجاجية"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "قواطع وفواصل زجاجية"
+    }
+  ],
+  "services/railings.html": [
+    {
+      "from": "about.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "index.html",
+      "anchor": "درابزين زجاجي"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "درابزين زجاج"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "درابزين زجاج"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "تركيب درابزين زجاجي"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "درابزين زجاج"
+    }
+  ],
+  "services/reflective-glass.html": [
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "تركيب زجاج عاكس"
+    }
+  ],
+  "services/security-glass.html": [
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "تركيب زجاج سيكوريت"
+    }
+  ],
+  "services/showers.html": [
+    {
+      "from": "about.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "contact.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "faq.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "index.html",
+      "anchor": "شورات زجاجية"
+    },
+    {
+      "from": "projects.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/clear-glass.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/frosted-glass.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/glass-doors.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/mirrors.html",
+      "anchor": "شورات زجاجية"
+    },
+    {
+      "from": "services/partitions.html",
+      "anchor": "شورات زجاجية"
+    },
+    {
+      "from": "services/railings.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/reflective-glass.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/security-glass.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/showers.html",
+      "anchor": "تركيب شورات زجاجية"
+    },
+    {
+      "from": "services/tinted-glass.html",
+      "anchor": "شورات زجاجية"
+    }
+  ],
+  "services/tinted-glass.html": [
+    {
+      "from": "index.html",
+      "anchor": "زجاج ملون ومظلل"
+    },
+    {
+      "from": "services/index.html",
+      "anchor": "معرفة المزيد"
+    }
+  ]
+}

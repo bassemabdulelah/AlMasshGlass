@@ -1,0 +1,352 @@
+{
+  "about.html": {
+    "title": "من نحن - الماسة للزجاج | خبراء تركيب زجاج سكريت وواجهات بالرياض",
+    "canonical": "https://almasa-glass.com/about.html",
+    "h1": [
+      "من نحن - الماسة للزجاج"
+    ],
+    "h2_count": 4,
+    "h2": [
+      "قصة الماسة للزجاج في الرياض",
+      "رؤيتنا للتميز في تركيب الزجاج",
+      "القيم التي نبني عليها نجاحنا",
+      "لماذا تختار الماسة للزجاج لتركيب الزجاج؟"
+    ],
+    "word_count": 450,
+    "inlinks_count": 33,
+    "outlinks_internal": 21,
+    "outlinks_external": 4,
+    "imgs_count": 8,
+    "schemas": [
+      "BreadcrumbList",
+      "AboutPage"
+    ]
+  },
+  "contact.html": {
+    "title": "اتصل بنا - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+    "canonical": "https://almasa-glass.com/contact.html",
+    "h1": [
+      "تواصل مع الماسة للزجاج"
+    ],
+    "h2_count": 2,
+    "h2": [
+      "تواصل مع فريق الماسة للزجاج",
+      "أين تجدنا في الرياض"
+    ],
+    "word_count": 238,
+    "inlinks_count": 57,
+    "outlinks_internal": 20,
+    "outlinks_external": 8,
+    "imgs_count": 9,
+    "schemas": [
+      "BreadcrumbList",
+      "ContactPage"
+    ]
+  },
+  "faq.html": {
+    "title": "الأسئلة الشائعة - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+    "canonical": "https://almasa-glass.com/faq.html",
+    "h1": [
+      "الأسئلة الشائعة"
+    ],
+    "h2_count": 2,
+    "h2": [
+      "كل ما تريد معرفته عن تركيب الزجاج السكريت",
+      "ما زال لديك سؤال؟"
+    ],
+    "word_count": 522,
+    "inlinks_count": 32,
+    "outlinks_internal": 19,
+    "outlinks_external": 4,
+    "imgs_count": 6,
+    "schemas": [
+      "BreadcrumbList",
+      "FAQPage"
+    ]
+  },
+  "index.html": {
+    "title": "زجاج سكريت الرياض | فني تركيب زجاج سكريت بالرياض | الماسة للزجاج",
+    "canonical": "https://almasa-glass.com/",
+    "h1": [
+      "تركيب زجاج سكريت وواجهات زجاجية بالرياضتحفة معمارية ولمسات من الإتقان"
+    ],
+    "h2_count": 7,
+    "h2": [
+      "الماسة للزجاجرواد الجودة والثقة",
+      "نقدم لكم أفضل خدمات الزجاج في الرياض",
+      "جميع أنواع الزجاج التي نقدمها",
+      "نغطي جميع أحياء الرياض",
+      "خطوات تنفيذ مشروعك معنا",
+      "أين تجدنا في الرياض",
+      "تواصل معنا"
+    ],
+    "word_count": 1386,
+    "inlinks_count": 63,
+    "outlinks_internal": 37,
+    "outlinks_external": 18,
+    "imgs_count": 22,
+    "schemas": [
+      "LocalBusiness"
+    ]
+  },
+  "projects.html": {
+    "title": "المشاريع المنفذة - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+    "canonical": "https://almasa-glass.com/projects.html",
+    "h1": [
+      "مشاريع الماسة للزجاج"
+    ],
+    "h2_count": 2,
+    "h2": [
+      "أحدث مشاريعنا في تركيب الزجاج",
+      "هل تريد مشروعاً مميزاً مثل هذه؟"
+    ],
+    "word_count": 214,
+    "inlinks_count": 32,
+    "outlinks_internal": 19,
+    "outlinks_external": 4,
+    "imgs_count": 12,
+    "schemas": [
+      "BreadcrumbList"
+    ]
+  },
+  "services/clear-glass.html": {
+    "title": "تركيب واجهات زجاجية بالرياض | الماسة للزجاج - أفضل شركة واجهات زجاج",
+    "canonical": "https://almasa-glass.com/services/clear-glass.html",
+    "h1": [
+      "تركيب واجهات زجاجية بالرياض"
+    ],
+    "h2_count": 3,
+    "h2": [
+      "تركيب واجهات زجاجية عصرية في الرياض",
+      "جميع أنواع الواجهات الزجاجية التي نركبها",
+      "هل تريد تركيب واجهات زجاجية لمشروعك؟"
+    ],
+    "word_count": 247,
+    "inlinks_count": 18,
+    "outlinks_internal": 21,
+    "outlinks_external": 4,
+    "imgs_count": 7,
+    "schemas": [
+      "BreadcrumbList",
+      "Service"
+    ]
+  },
+  "services/frosted-glass.html": {
+    "title": "تركيب زجاج سكريت بالرياض | الماسة للزجاج - أفضل فني زجاج سكريت",
+    "canonical": "https://almasa-glass.com/services/frosted-glass.html",
+    "h1": [
+      "تركيب زجاج سكريت بالرياض"
+    ],
+    "h2_count": 4,
+    "h2": [
+      "تركيب زجاج سكريت للحمامات والغرف في الرياض",
+      "جميع أنواع الزجاج السكريت التي نركبها",
+      "لماذا تختار الماسة للزجاج لتركيب الزجاج السكريت؟",
+      "هل تريد تركيب زجاج سكريت في منزلك أو مكتبك؟"
+    ],
+    "word_count": 326,
+    "inlinks_count": 18,
+    "outlinks_internal": 22,
+    "outlinks_external": 4,
+    "imgs_count": 8,
+    "schemas": [
+      "BreadcrumbList",
+      "Service"
+    ]
+  },
+  "services/glass-doors.html": {
+    "title": "تركيب أبواب زجاجية بالرياض | الماسة للزجاج - أفضل شركة أبواب زجاج",
+    "canonical": "https://almasa-glass.com/services/glass-doors.html",
+    "h1": [
+      "تركيب أبواب زجاجية بالرياض"
+    ],
+    "h2_count": 3,
+    "h2": [
+      "تركيب أبواب زجاجية عصرية في الرياض",
+      "جميع أنواع الأبواب الزجاجية التي نركبها",
+      "هل تريد تركيب أبواب زجاجية في منزلك أو مكتبك؟"
+    ],
+    "word_count": 254,
+    "inlinks_count": 9,
+    "outlinks_internal": 22,
+    "outlinks_external": 4,
+    "imgs_count": 7,
+    "schemas": [
+      "BreadcrumbList",
+      "Service"
+    ]
+  },
+  "services/index.html": {
+    "title": "خدمات تركيب الزجاج - الماسة للزجاج | أفضل شركة زجاج سكريت بالرياض",
+    "canonical": "https://almasa-glass.com/services/",
+    "h1": [
+      "خدمات تركيب الزجاج"
+    ],
+    "h2_count": 2,
+    "h2": [
+      "نقدم لكم أفضل خدمات الزجاج في الرياض",
+      "تحتاج استشارة مجانية؟"
+    ],
+    "word_count": 285,
+    "inlinks_count": 44,
+    "outlinks_internal": 29,
+    "outlinks_external": 4,
+    "imgs_count": 6,
+    "schemas": [
+      "BreadcrumbList",
+      "ItemList"
+    ]
+  },
+  "services/mirrors.html": {
+    "title": "تركيب مرايا ديكورية بالرياض | الماسة للزجاج - تفصيل مرايا جدارية",
+    "canonical": "https://almasa-glass.com/services/mirrors.html",
+    "h1": [
+      "تركيب مرايا ديكورية في الرياض"
+    ],
+    "h2_count": 3,
+    "h2": [
+      "تركيب مرايا ديكورية وجدارية في الرياض",
+      "خيارات متنوعة من المرايا الديكورية",
+      "هل ترغب في تفصيل مرايا ديكورية لمشروعك؟"
+    ],
+    "word_count": 270,
+    "inlinks_count": 6,
+    "outlinks_internal": 23,
+    "outlinks_external": 5,
+    "imgs_count": 6,
+    "schemas": [
+      null
+    ]
+  },
+  "services/partitions.html": {
+    "title": "تركيب قواطع وفواصل زجاجية بالرياض | الماسة للزجاج - فواصل زجاج مكاتب",
+    "canonical": "https://almasa-glass.com/services/partitions.html",
+    "h1": [
+      "تركيب قواطع وفواصل زجاجية بالرياض"
+    ],
+    "h2_count": 3,
+    "h2": [
+      "فواصل وقواطع زجاج سكريت عصرية",
+      "أنظمة القواطع الزجاجية التي نركبها",
+      "هل تخطط لتقسيم مكتبك أو شركتك بـ قواطع زجاجية؟"
+    ],
+    "word_count": 297,
+    "inlinks_count": 8,
+    "outlinks_internal": 23,
+    "outlinks_external": 5,
+    "imgs_count": 6,
+    "schemas": [
+      null
+    ]
+  },
+  "services/railings.html": {
+    "title": "تركيب درابزين زجاجي بالرياض | الماسة للزجاج - أفضل فني درابزين زجاج",
+    "canonical": "https://almasa-glass.com/services/railings.html",
+    "h1": [
+      "تركيب درابزين زجاجي بالرياض"
+    ],
+    "h2_count": 4,
+    "h2": [
+      "تركيب درابزين زجاجي فاخر في الرياض",
+      "جميع أنواع الدرابزين الزجاجي التي نركبها",
+      "لماذا تختار الماسة للزجاج لتركيب الدرابزين الزجاجي؟",
+      "هل تريد تركيب درابزين زجاجي في منزلك؟"
+    ],
+    "word_count": 290,
+    "inlinks_count": 18,
+    "outlinks_internal": 22,
+    "outlinks_external": 4,
+    "imgs_count": 8,
+    "schemas": [
+      "BreadcrumbList",
+      "Service"
+    ]
+  },
+  "services/reflective-glass.html": {
+    "title": "تركيب زجاج عاكس بالرياض | الماسة للزجاج - أفضل شركة زجاج عاكس للحرارة",
+    "canonical": "https://almasa-glass.com/services/reflective-glass.html",
+    "h1": [
+      "تركيب زجاج عاكس للحرارة في الرياض"
+    ],
+    "h2_count": 3,
+    "h2": [
+      "تركيب زجاج عاكس للحرارة في الرياض",
+      "جميع استخدامات الزجاج العاكس التي نركبها",
+      "هل تريد تركيب زجاج عاكس لواجهة مشروعك؟"
+    ],
+    "word_count": 244,
+    "inlinks_count": 2,
+    "outlinks_internal": 22,
+    "outlinks_external": 4,
+    "imgs_count": 7,
+    "schemas": [
+      "BreadcrumbList",
+      "Service"
+    ]
+  },
+  "services/security-glass.html": {
+    "title": "تركيب زجاج سيكوريت بالرياض | الماسة للزجاج - أفضل شركة زجاج أمان",
+    "canonical": "https://almasa-glass.com/services/security-glass.html",
+    "h1": [
+      "تركيب زجاج سيكوريت وأمان في الرياض"
+    ],
+    "h2_count": 3,
+    "h2": [
+      "تركيب زجاج سيكوريت وأمان في الرياض",
+      "جميع استخدامات الزجاج السيكوريت التي نركبها",
+      "هل تريد تركيب زجاج سيكوريت لمشروعك؟"
+    ],
+    "word_count": 240,
+    "inlinks_count": 2,
+    "outlinks_internal": 22,
+    "outlinks_external": 4,
+    "imgs_count": 7,
+    "schemas": [
+      "BreadcrumbList",
+      "Service"
+    ]
+  },
+  "services/showers.html": {
+    "title": "تركيب شورات زجاجية بالرياض | الماسة للزجاج - أفضل كبائن شاور زجاجية",
+    "canonical": "https://almasa-glass.com/services/showers.html",
+    "h1": [
+      "تركيب شورات زجاجية بالرياض"
+    ],
+    "h2_count": 3,
+    "h2": [
+      "تركيب شورات زجاجية عصرية في الرياض",
+      "جميع أنواع الشورات الزجاجية التي نركبها",
+      "هل تريد تركيب شورات زجاجية في حمامك؟"
+    ],
+    "word_count": 239,
+    "inlinks_count": 18,
+    "outlinks_internal": 21,
+    "outlinks_external": 4,
+    "imgs_count": 7,
+    "schemas": [
+      "BreadcrumbList",
+      "Service"
+    ]
+  },
+  "services/tinted-glass.html": {
+    "title": "تركيب زجاج مظلل وملون بالرياض | الماسة للزجاج - عزل حراري وحماية",
+    "canonical": "https://almasa-glass.com/services/tinted-glass.html",
+    "h1": [
+      "تركيب زجاج مظلل وملون بالرياض"
+    ],
+    "h2_count": 3,
+    "h2": [
+      "زجاج مظلل وملون عازل للحرارة في الرياض",
+      "استخدامات الزجاج المظلل والملون",
+      "هل ترغب في تركيب زجاج مظلل أو ملون بالرياض؟"
+    ],
+    "word_count": 303,
+    "inlinks_count": 2,
+    "outlinks_internal": 23,
+    "outlinks_external": 5,
+    "imgs_count": 6,
+    "schemas": [
+      null
+    ]
+  }
+}

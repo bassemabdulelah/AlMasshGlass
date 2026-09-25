@@ -1,0 +1,4449 @@
+{
+  "about.html": {
+    "file": "about.html",
+    "title": "من نحن - الماسة للزجاج | خبراء تركيب زجاج سكريت وواجهات بالرياض",
+    "description": "تعرف على شركة الماسة للزجاج في الرياض. متخصصون في تصميم وتركيب واجهات الزجاج السكريت، كبائن الشاور، الدرابزين، القواطع المكتبية، والمرايا الجدارية بدقة واحترافية.",
+    "keywords": "من نحن الماسة للزجاج, شركة تركيب زجاج سكريت بالرياض, فني زجاج سكريت الرياض, واجهات زجاجية الرياض, مؤسسة تركيب زجاج سكريت",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/about.html",
+    "og": {
+      "og:title": "من نحن - الماسة للزجاج | خبراء تركيب زجاج سكريت وواجهات بالرياض",
+      "og:description": "تعرف على شركة الماسة للزجاج في الرياض. متخصصون في تصميم وتركيب واجهات الزجاج السكريت، كبائن الشاور، الدرابزين، القواطع المكتبية، والمرايا الجدارية بدقة واحترافية.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/about.html",
+      "og:image": "https://almasa-glass.com/assets/images/og-image.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "من نحن - الماسة للزجاج | خبراء تركيب زجاج سكريت وواجهات بالرياض",
+      "twitter:description": "تعرف على شركة الماسة للزجاج في الرياض. متخصصون في تصميم وتركيب واجهات الزجاج السكريت، كبائن الشاور، الدرابزين، القواطع المكتبية، والمرايا الجدارية بدقة واحترافية.",
+      "twitter:image": "https://almasa-glass.com/assets/images/og-image.webp"
+    },
+    "h1": [
+      "من نحن - الماسة للزجاج"
+    ],
+    "h2": [
+      "قصة الماسة للزجاج في الرياض",
+      "رؤيتنا للتميز في تركيب الزجاج",
+      "القيم التي نبني عليها نجاحنا",
+      "لماذا تختار الماسة للزجاج لتركيب الزجاج؟"
+    ],
+    "h3": [
+      "الجودة العالية",
+      "الثقة والشفافية",
+      "فريق محترف",
+      "ضمان شامل",
+      "خبرة واحترافية متقدمة",
+      "فنيين محترفين",
+      "خامات عالية الجودة",
+      "الالتزام بالمواعيد",
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "assets/images/about.webp",
+        "alt": "قصة الماسة للزجاج - شركة تركيب زجاج سكريت بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/hero-poster.webp",
+        "alt": "رؤية ورسالة الماسة للزجاج - تركيب زجاج سكريت بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/services/frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "/services/clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "/services/showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "/services/railings.html",
+        "text": "تركيب درابزين زجاجي"
+      },
+      {
+        "href": "/services/glass-doors.html",
+        "text": "تركيب أبواب زجاجية"
+      },
+      {
+        "href": "/services/partitions.html",
+        "text": "تركيب فواصل زجاجية"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الزجاج السكريت",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "من نحن",
+            "item": "https://almasa-glass.com/about.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "AboutPage",
+        "name": "من نحن - الماسة للزجاج",
+        "description": "شركة الماسة للزجاج - خبراء تركيب الزجاج السكريت والواجهات الزجاجية في الرياض",
+        "url": "https://almasa-glass.com/about.html",
+        "mainEntity": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "description": "شركة متخصصة في تركيب الزجاج السكريت والواجهات الزجاجية بالرياض",
+          "telephone": "+966554493452",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "الرياض",
+            "addressCountry": "SA"
+          }
+        }
+      }
+    ],
+    "word_count": 450,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 من نحن - الماسة للزجاج رواد تركيب الزجاج السكريت والواجهات الزجاجية في الرياض الرئيسية / من نحن قصتنا قصة الماسة للزجاج في الرياض انطلقت الماسة للزجاج في الرياض بهدف تقديم أرقى خدمات تركيب الزجاج السكريت والواجهات الزجاجية للقصور والفلل والمباني التجارية، مع الالتزام بأدق المعايير الهندسية وأعلى مستويات السلامة والإتقان في العاصمة. خلال مسيرتنا، نفذنا أكثر من 500 مشروع في جميع أحياء الرياض، من الزجاج السكريت للحمامات إلى الواجهات الزجاجية للفلل و الدرابزين الزجاجي للقصور. نفتخر بثقة عملائنا الذين يعودون إلينا لخبرتنا وجودتنا. تأسست عام 2016 في الرياض أكثر من 500 مشروع منفذ فريق متخصص في تركيب الزجاج ضمان على جميع الأعمال رؤيتنا ورسالتنا رؤيتنا للتميز في تركيب الزجاج رؤيتنا: أن نكون الشركة الأولى والأكثر ثقة في مجال تركيب الزجاج السكريت والواجهات الزجاجية في الرياض، وأن نضع معايير جديدة للجودة والإبداع في هذا المجال. رسالتنا: تقديم حلول زجاجية مبتكرة تجمع بين الجمال والمتانة، مع الالتزام بأعلى معايير الجودة والسلامة، وتوفير تجربة مميزة للعملاء من خلال فنيين محترفين و أحدث التقنيات في تركيب الزجاج. الجودة أولاً في كل مشروع الابتكار في تصميم الزجاج رضا العميل هو هدفنا التطوير المستمر لفريقنا قيمنا القيم التي نبني عليها نجاحنا نؤمن في الماسة للزجاج بمجموعة من القيم التي تجعلنا الخيار الأفضل لـ تركيب الزجاج السكريت في الرياض الجودة العالية نستخدم أجود أنواع الزجاج السكريت والسيكوريت لضمان متانة وجمال يدوم طويلاً الثقة والشفافية نقدم عروض أسعار شفافة ومفصلة، ونلتزم بمواعيدنا في تركيب الزجاج فريق محترف فريقنا من فنيي الزجاج المدربين يضمن لك تنفيذاً احترافياً يتجاوز التوقعات ضمان شامل نقدم ضماناً على جميع أعمال تركيب الزجاج السكريت لراحة بالك دقة في المقاسات معاينة هندسية دقيقة للموقع زجاج سكريت معتمد مقاومة عالية للصدمات والحرارة إكسسوارات ستانلس قطع مقاومة للصدأ والتآكل تغطية شاملة خدمة سريعة لكافة أحياء الرياض لماذا نحن لماذا تختار الماسة للزجاج لتركيب الزجاج؟ هناك عدة أسباب تجعل الماسة للزجاج الخيار الأول لـ تركيب الزجاج السكريت في الرياض خبرة واحترافية متقدمة معرفة فنية عميقة بجميع تفاصيل تركيب الزجاج السكريت والواجهات الزجاجية في الرياض فنيين محترفين فريق من أفضل فنيي الزجاج السكريت في الرياض، مدربين على أعلى مستوى خامات عالية الجودة نعتمد على أجود أنواع الزجاج السيكوريت المقسى لضمان أعلى درجات الأمان والمتانة الالتزام بالمواعيد نلتزم بجدول العمل المتفق عليه لـ تركيب الزجاج دون تأخير تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة تجمع بين الأناقة والمتانة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي تركيب أبواب زجاجية تركيب فواصل زجاجية معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "contact.html": {
+    "file": "contact.html",
+    "title": "اتصل بنا - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+    "description": "تواصل مع الماسة للزجاج، أفضل شركة تركيب زجاج سكريت وواجهات زجاجية بالرياض. احصل على استشارة مجانية وعرض سعر فوري لتركيب الزجاج.",
+    "keywords": "اتصل بنا الماسة للزجاج, رقم شركة زجاج سكريت بالرياض, فني زجاج سكريت, مقاول زجاج سكريت, تركيب زجاج بالرياض, استشارة زجاج مجانية",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/contact.html",
+    "og": {
+      "og:title": "اتصل بنا - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+      "og:description": "تواصل مع الماسة للزجاج، أفضل شركة تركيب زجاج سكريت وواجهات زجاجية بالرياض. احصل على استشارة مجانية.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/contact.html",
+      "og:image": "https://almasa-glass.com/assets/images/og-image.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "اتصل بنا - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+      "twitter:description": "تواصل مع الماسة للزجاج لطلب معاينة أو استشارة مجانية لتركيب الزجاج السكريت، الواجهات، والكبائن بالرياض.",
+      "twitter:image": "https://almasa-glass.com/assets/images/og-image.webp"
+    },
+    "h1": [
+      "تواصل مع الماسة للزجاج"
+    ],
+    "h2": [
+      "تواصل مع فريق الماسة للزجاج",
+      "أين تجدنا في الرياض"
+    ],
+    "h3": [
+      "اطلب استشارة مجانية",
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "assets/images/call.webp",
+        "alt": "اتصل بنا لتركيب الزجاج السكريت",
+        "class": "contact-icon",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/whatsapp.webp",
+        "alt": "واتساب - استشارة تركيب زجاج",
+        "class": "contact-icon",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/clock.webp",
+        "alt": "ساعات العمل - تركيب زجاج",
+        "class": "contact-icon",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/services/frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "/services/clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "/services/showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "/services/railings.html",
+        "text": "تركيب درابزين زجاجي"
+      },
+      {
+        "href": "/services/glass-doors.html",
+        "text": "تركيب أبواب زجاجية"
+      },
+      {
+        "href": "/services/partitions.html",
+        "text": "تركيب فواصل زجاجية"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "افتح الموقع في Google Maps"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "📍 اضغط لفتح موقع الماسة للزجاج في Google Maps"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الزجاج السكريت",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "اتصل بنا",
+            "item": "https://almasa-glass.com/contact.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ContactPage",
+        "name": "اتصل بنا - الماسة للزجاج",
+        "description": "صفحة التواصل مع شركة الماسة للزجاج لتركيب الزجاج السكريت بالرياض",
+        "url": "https://almasa-glass.com/contact.html",
+        "mainEntity": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "telephone": "+966554493452",
+          "email": "info@almasa-glass.com",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "الرياض",
+            "addressCountry": "SA"
+          }
+        }
+      }
+    ],
+    "word_count": 238,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تواصل مع الماسة للزجاج احصل على استشارة مجانية لتركيب الزجاج السكريت في الرياض الرئيسية / اتصل بنا معلومات الاتصال تواصل مع فريق الماسة للزجاج نحن هنا لخدمتك، تواصل معنا لأي استفسار عن تركيب الزجاج السكريت أو الواجهات الزجاجية أو طلب عرض سعر فوري. فريقنا من فنيي الزجاج المحترفين في انتظارك. الهاتف - تركيب زجاج +966 55 449 3452 واتساب - فني زجاج +966 55 449 3452 ساعات العمل جميع أيام الأسبوع - 24 ساعة موقعنا حي الفيصيلية، الرياض افتح الموقع في Google Maps اطلب استشارة مجانية املأ النموذج وسنعود للتواصل معك خلال 24 ساعة الاسم الكامل رقم الهاتف البريد الإلكتروني الخدمة المطلوبة اختر الخدمة زجاج سكريت واجهات زجاجية شورات زجاجية (كبائن شاور) درابزين زجاجي أبواب زجاجية فواصل زجاجية مرايا ديكورية أخرى تفاصيل الطلب إرسال الطلب موقعنا أين تجدنا في الرياض نحن في حي الفيصيلية بالرياض، نخدم جميع أحياء العاصمة 📍 اضغط لفتح موقع الماسة للزجاج في Google Maps الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة تجمع بين الأناقة والمتانة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي تركيب أبواب زجاجية تركيب فواصل زجاجية معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "faq.html": {
+    "file": "faq.html",
+    "title": "الأسئلة الشائعة - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+    "description": "إجابات على الأسئلة الأكثر شيوعاً حول تركيب الزجاج السكريت بالرياض. تعرف على تكلفة التركيب، أنواع الزجاج، مدة التنفيذ، وضمان الجودة.",
+    "keywords": "أسئلة شائعة عن تركيب الزجاج, تكلفة تركيب زجاج سكريت بالرياض, أنواع الزجاج السكريت, ضمان تركيب الزجاج, فني زجاج سكريت",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/faq.html",
+    "og": {
+      "og:title": "الأسئلة الشائعة - الماسة للزجاج | تركيب زجاج سكريت بالرياض",
+      "og:description": "إجابات شاملة على أكثر الأسئلة شيوعاً حول تركيب وتفصيل الزجاج السكريت، الواجهات، وكبائن الشاور في الرياض.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/faq.html",
+      "og:image": "https://almasa-glass.com/assets/images/og-image.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "الأسئلة الشائعة - الماسة للزجاج | تركيب زجاج سكريت بالرياض",
+      "twitter:description": "إجابات شاملة على أكثر الأسئلة شيوعاً حول تركيب وتفصيل الزجاج السكريت، الواجهات، وكبائن الشاور في الرياض.",
+      "twitter:image": "https://almasa-glass.com/assets/images/og-image.webp"
+    },
+    "h1": [
+      "الأسئلة الشائعة"
+    ],
+    "h2": [
+      "كل ما تريد معرفته عن تركيب الزجاج السكريت",
+      "ما زال لديك سؤال؟"
+    ],
+    "h3": [
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/services/frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "/services/clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "/services/showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "/services/railings.html",
+        "text": "تركيب درابزين زجاجي"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الزجاج السكريت",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "الأسئلة الشائعة",
+            "item": "https://almasa-glass.com/faq.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "ما هي تكلفة تركيب الزجاج السكريت بالرياض؟",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "تختلف تكلفة تركيب الزجاج السكريت حسب نوع الزجاج، المساحة، وتعقيد التركيب. تبدأ الأسعار من 300 ريال للمتر المربع. نقدم عروض أسعار مجانية وشفافة."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "ما هي أنواع الزجاج السكريت التي تقدمونها؟",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "نقدم جميع أنواع الزجاج السكريت بما في ذلك: الزجاج الشفاف، الزجاج السكريت للخصوصية، الزجاج العاكس، الزجاج الملون، الزجاج السيكوريت، والزجاج المقسى."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "كم تستغرق مدة تركيب الزجاج السكريت؟",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "تعتمد مدة التركيب على حجم المشروع. عادةً ما تستغرق المشاريع الصغيرة 1-3 أيام، بينما قد تستغرق المشاريع الكبيرة أسبوعاً أو أكثر."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "هل تقدمون ضماناً على تركيب الزجاج؟",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "نعم، نقدم ضماناً شاملاً على جميع أعمال تركيب الزجاج السكريت والواجهات الزجاجية لمدة تصل إلى 5 سنوات."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "هل تخدمون جميع أحياء الرياض؟",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "نعم، نخدم جميع أحياء الرياض بما في ذلك شمال الرياض، جنوب الرياض، شرق الرياض، وغرب الرياض. كما نخدم ضواحي الرياض والمحافظات المجاورة."
+            }
+          }
+        ]
+      }
+    ],
+    "word_count": 522,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 الأسئلة الشائعة إجابات على أكثر الأسئلة شيوعاً حول تركيب الزجاج السكريت في الرياض الرئيسية / الأسئلة الشائعة الأسئلة الشائعة كل ما تريد معرفته عن تركيب الزجاج السكريت نجيب على أهم الأسئلة التي تهم عملاءنا في الرياض ما هي تكلفة تركيب الزجاج السكريت بالرياض؟ تختلف تكلفة تركيب الزجاج السكريت حسب عدة عوامل: نوع الزجاج (سكريت، شفاف، عاكس، سيكوريت)، المساحة المطلوبة، وتعقيد التركيب. في الماسة للزجاج، تبدأ أسعار تركيب الزجاج السكريت من 300 ريال للمتر المربع. نقدم عروض أسعار مجانية وشفافة، وبدون أي التزام. اتصل بنا الآن للحصول على عرض سعر فوري لمشروعك. ما هي أنواع الزجاج السكريت التي تقدمونها؟ نقدم في الماسة للزجاج جميع أنواع الزجاج السكريت، بما يشمل: الزجاج الشفاف للواجهات والنوافذ، الزجاج السكريت للحمامات والغرف، الزجاج العاكس للحرارة، الزجاج الملون للديكور، الزجاج السيكوريت للأمان، و الزجاج المقسى للمشاريع الكبيرة. جميع أنواع الزجاج متوفرة بأحجام وتشطيبات متعددة حسب رغبتك. كم تستغرق مدة تركيب الزجاج السكريت؟ تعتمد مدة تركيب الزجاج السكريت على حجم المشروع وتعقيده. في الماسة للزجاج، نلتزم بجدول زمني دقيق. عادةً ما تستغرق المشاريع الصغيرة (مثل تركيب زجاج حمام واحد) 1-3 أيام. بينما قد تستغرق المشاريع الكبيرة (مثل واجهات زجاجية للفلل) أسبوعاً أو أكثر. نحرص على إنجاز العمل بأسرع وقت ممكن دون المساس بالجودة. هل تقدمون ضماناً على تركيب الزجاج؟ نعم، في الماسة للزجاج نقدم ضماناً شاملاً على جميع أعمال تركيب الزجاج السكريت والواجهات الزجاجية لمدة تصل إلى 5 سنوات. الضمان يشمل جودة التركيب ومتانة المواد المستخدمة. نحن نثق بجودة عملنا، ونمنحك راحة البال. هل تخدمون جميع أحياء الرياض؟ نعم، الماسة للزجاج تخدم جميع أحياء الرياض بما في ذلك شمال الرياض (حي النرجس، الياسمين، الملقا، الصحافة)، جنوب الرياض، شرق الرياض، و غرب الرياض. كما نخدم ضواحي الرياض والمحافظات المجاورة. فريقنا من فنيي الزجاج يغطي جميع مناطق العاصمة. هل تقدمون استشارة مجانية قبل التركيب؟ نعم، في الماسة للزجاج نقدم استشارة مجانية لجميع عملائنا في الرياض. نزور موقعك، نأخذ القياسات، ونقدم لك أفضل الحلول الزجاجية التي تناسب احتياجاتك وميزانيتك. الاستشارة تشمل اختيار نوع الزجاج المناسب، التصميم، وتقديم عرض سعر تفصيلي وشفاف. كل ذلك بدون أي التزام. ما هي مميزات الزجاج السكريت مقارنة بالزجاج العادي؟ الزجاج السكريت يتميز بخصائص فريدة تجعله أفضل من الزجاج العادي: يوفر خصوصية مع الحفاظ على الإضاءة الطبيعية، يعطي مظهراً أنيقاً وعصرياً، مقاوم للخدوش والتآكل، ويسهل تنظيفه وصيانته. في الماسة للزجاج، نستخدم أجود أنواع الزجاج السكريت لضمان حصولك على أفضل النتائج. هل يمكن تركيب الزجاج السكريت في الأماكن الرطبة مثل الحمامات؟ نعم، الزجاج السكريت مثالي للاستخدام في الحمامات والأماكن الرطبة. نحن في الماسة للزجاج نركب زجاج سكريت للحمامات و شورات زجاجية (كبائن شاور) بأعلى جودة. الزجاج السكريت مقاوم للرطوبة ولا يتأثر بالبخار، مما يجعله الخيار الأمثل للحمامات الحديثة. ما زال لديك سؤال؟ تواصل مع فريق الماسة للزجاج، وسنرد على جميع استفساراتك حول تركيب الزجاج السكريت في الرياض تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "index.html": {
+    "file": "index.html",
+    "title": "زجاج سكريت الرياض | فني تركيب زجاج سكريت بالرياض | الماسة للزجاج",
+    "description": "الماسة للزجاج بالرياض - متخصصون في تركيب الزجاج السكريت، الواجهات الزجاجية، أبواب الزجاج، كبائن الشاور، والدرابزين الزجاجي بأعلى معايير الجودة والإتقان.",
+    "keywords": "\nزجاج سكريت الرياض,\nفني زجاج سكريت الرياض,\nتركيب زجاج سكريت,\nواجهات زجاج الرياض,\nشركة زجاج بالرياض,\nتركيب واجهات زجاج,\nدرابزين زجاج,\nأبواب زجاج,\nشورات زجاج,\nمرايا,\nفواصل زجاج,\nالماسة للزجاج",
+    "robots": "index, follow, max-snippet:-1, max-image-preview:large",
+    "canonical": "https://almasa-glass.com/",
+    "og": {
+      "og:title": "زجاج سكريت الرياض | فني تركيب زجاج سكريت بالرياض | الماسة للزجاج",
+      "og:description": "الماسة للزجاج بالرياض - متخصصون في تركيب الزجاج السكريت، الواجهات الزجاجية، أبواب الزجاج، كبائن الشاور، والدرابزين الزجاجي بأعلى معايير الجودة والإتقان.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/",
+      "og:image": "https://almasa-glass.com/assets/images/og-image.webp",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "زجاج سكريت الرياض | فني تركيب زجاج سكريت | الماسة للزجاج",
+      "twitter:description": "متخصصون في تركيب الزجاج السكريت والواجهات الزجاجية والأبواب والشورات في الرياض بأعلى جودة.",
+      "twitter:image": "https://almasa-glass.com/assets/images/og-image.webp"
+    },
+    "h1": [
+      "تركيب زجاج سكريت وواجهات زجاجية بالرياضتحفة معمارية ولمسات من الإتقان"
+    ],
+    "h2": [
+      "الماسة للزجاجرواد الجودة والثقة",
+      "نقدم لكم أفضل خدمات الزجاج في الرياض",
+      "جميع أنواع الزجاج التي نقدمها",
+      "نغطي جميع أحياء الرياض",
+      "خطوات تنفيذ مشروعك معنا",
+      "أين تجدنا في الرياض",
+      "تواصل معنا"
+    ],
+    "h3": [
+      "زجاج سكريت",
+      "واجهات زجاجية",
+      "شورات زجاجية",
+      "درابزين زجاجي",
+      "أبواب زجاجية",
+      "قواطع وفواصل زجاجية",
+      "مرايا ديكورية وجدارية",
+      "زجاج شفاف",
+      "زجاج سكريت",
+      "زجاج مظلل وملون",
+      "زجاج عاكس",
+      "جميع أنواع الزجاج",
+      "زجاج شفاف",
+      "زجاج سكريت",
+      "درابزين زجاج",
+      "زجاج عاكس",
+      "زجاج ملون",
+      "زجاج أمان (مقسّى)",
+      "زجاج شركات ومكاتب",
+      "زجاج مرايا ديكورية وجدارية",
+      "جميع أنواع الزجاج السكريت",
+      "استشارة مجانية",
+      "تصميم وقياس",
+      "عرض السعر",
+      "تركيب احترافي",
+      "تسليم وضمان",
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "assets/images/about.webp",
+        "alt": "عن الماسة للزجاج",
+        "width": "512",
+        "height": "279",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/types/clear.webp",
+        "alt": "زجاج شفاف",
+        "width": "400",
+        "height": "300",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "assets/images/types/frosted.webp",
+        "alt": "زجاج سكريت",
+        "width": "400",
+        "height": "300",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "assets/images/types/tinted.webp",
+        "alt": "زجاج مظلل وملون",
+        "width": "400",
+        "height": "300",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "assets/images/types/reflective.webp",
+        "alt": "زجاج عاكس",
+        "width": "400",
+        "height": "300",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "assets/images/types/clear.webp",
+        "alt": "زجاج شفاف",
+        "width": "400",
+        "height": "295",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/types/frosted.webp",
+        "alt": "زجاج سكريت",
+        "width": "400",
+        "height": "525",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/types/tinted.webp",
+        "alt": "درابزين زجاج",
+        "width": "400",
+        "height": "335",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/types/reflective.webp",
+        "alt": "زجاج عاكس",
+        "width": "400",
+        "height": "298",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/types/colored.webp",
+        "alt": "زجاج ملون",
+        "width": "341",
+        "height": "456",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/types/security.webp",
+        "alt": "زجاج أمان",
+        "width": "400",
+        "height": "400",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/types/offices.webp",
+        "alt": "زجاج شركات ومكاتب",
+        "width": "400",
+        "height": "701",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/types/decorative-mirrors.webp",
+        "alt": "زجاج مرايا ديكورية وجدارية",
+        "width": "400",
+        "height": "335",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "contact-icon",
+        "width": "35",
+        "height": "35",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "contact-icon",
+        "width": "35",
+        "height": "35",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/clock.webp",
+        "alt": "ساعات العمل",
+        "class": "contact-icon",
+        "width": "35",
+        "height": "35",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "تعرف علينا أكثر"
+      },
+      {
+        "href": "/services/frosted-glass.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "/services/clear-glass.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "/services/showers.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "/services/railings.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "/services/glass-doors.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "/services/partitions.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "/services/mirrors.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "/services/",
+        "text": "عرض جميع الخدمات"
+      },
+      {
+        "href": "assets/images/types/clear.webp",
+        "text": ""
+      },
+      {
+        "href": "assets/images/types/frosted.webp",
+        "text": ""
+      },
+      {
+        "href": "assets/images/types/tinted.webp",
+        "text": ""
+      },
+      {
+        "href": "assets/images/types/reflective.webp",
+        "text": ""
+      },
+      {
+        "href": "/contact.html",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "أرسل رسالة"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/services/frosted-glass.html",
+        "text": "زجاج سكريت"
+      },
+      {
+        "href": "/services/clear-glass.html",
+        "text": "واجهات زجاجية"
+      },
+      {
+        "href": "/services/showers.html",
+        "text": "شورات زجاجية"
+      },
+      {
+        "href": "/services/railings.html",
+        "text": "درابزين زجاجي"
+      },
+      {
+        "href": "/services/glass-doors.html",
+        "text": "أبواب زجاجية"
+      },
+      {
+        "href": "/services/partitions.html",
+        "text": "قواطع وفواصل زجاجية"
+      },
+      {
+        "href": "/services/mirrors.html",
+        "text": "مرايا ديكورية"
+      },
+      {
+        "href": "/services/tinted-glass.html",
+        "text": "زجاج ملون ومظلل"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "#contact",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "📍 اضغط لفتح الموقع في Google Maps"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن خدماتكم",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "الماسة للزجاج | تركيب زجاج سكريت بالرياض",
+        "description": "شركة متخصصة في توريد وتركيب الزجاج السكريت والواجهات الزجاجية، أبواب الزجاج، كبائن الشاور، والدرابزين في الرياض",
+        "image": "https://almasa-glass.com/assets/images/logo.webp",
+        "telephone": "+966554493452",
+        "email": "info@almasa-glass.com",
+        "url": "https://almasa-glass.com/",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "الرياض",
+          "addressRegion": "الرياض",
+          "addressCountry": "SA",
+          "streetAddress": "حي الفيصيلية، الرياض، المملكة العربية السعودية"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "24.7136",
+          "longitude": "46.6753"
+        },
+        "openingHours": "Mo-Su 08:00-22:00",
+        "sameAs": [
+          "https://wa.me/966554493452",
+          "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA"
+        ],
+        "serviceArea": {
+          "@type": "GeoCircle",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": "24.7136",
+            "longitude": "46.6753"
+          },
+          "geoRadius": "50000"
+        },
+        "areaServed": [
+          "الرياض",
+          "الخرج",
+          "الدرعية"
+        ]
+      }
+    ],
+    "word_count": 1386,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 خدمات تركيب الزجاج السكريت والواجهات بالرياض تركيب زجاج سكريت وواجهات زجاجية بالرياضتحفة معمارية ولمسات من الإتقان نحن في الماسة للزجاج نقدم خدمات متكاملة في تفصيل وتركيب زجاج سكريت، واجهات زجاجية، أبواب زجاج، شورات، ودرابزين زجاج للفلل والقصور والمكاتب والمباني الحديثة في الرياض. واتساب خدماتنا اتصل بنا معاينة ومقاسات دقيقة زجاج سكريت معتمد وآمن فنيون متخصصون ومحترفون تغطية شاملة لكافة أحياء الرياض من نحن الماسة للزجاجرواد الجودة والثقة نحن في الماسة للزجاج متخصصون في تنفيذ وتركيب جميع أعمال الزجاج السيكوريت والحلول الزجاجية الحديثة في مدينة الرياض. نقدم خدمات متكاملة تشمل تركيب واجهات الزجاج، والأبواب الزجاجية، والشورات الزجاجية للحمامات، وفواصل وقواطع المكاتب والشركات، والدرابزين الزجاجي، والمرايا الديكورية، وفق أعلى معايير الجودة والأمان. نتميز بتقديم حلول زجاجية مبتكرة تجمع بين الأناقة والمتانة، مع التزامنا التام بالمواعيد وأعلى معايير السلامة والإتقان. فنيون محترفون في تفصيل وتركيب زجاج سكريت استخدام إكسسوارات وقطاعات عالية الجودة معاينة ميدانية ورفع مقاسات دقيقة التزام بالمواعيد وسرعة في الإنجاز تعرف علينا أكثر خدماتنا نقدم لكم أفضل خدمات الزجاج في الرياض نقدم تشكيلة واسعة من خدمات تركيب الزجاج السكريت والواجهات الزجاجية لتلبية جميع احتياجاتكم زجاج سكريت تركيب زجاج سكريت للحمامات والغرف والمكاتب بأعلى جودة معرفة المزيد واجهات زجاجية تركيب واجهات زجاجية عصرية للفلل والقصور والمباني التجارية معرفة المزيد شورات زجاجية تصميم وتركيب كبائن شاور زجاجية فاخرة للحمامات معرفة المزيد درابزين زجاجي تركيب درابزين زجاجي للسلالم والشرفات بأحدث التصاميم معرفة المزيد أبواب زجاجية تركيب أبواب زجاجية داخلية وخارجية بتصاميم عصرية معرفة المزيد قواطع وفواصل زجاجية فواصل زجاجية عصرية للشركات والمكاتب والمنازل معرفة المزيد مرايا ديكورية وجدارية تفصيل وتركيب مرايا جدارية وديكورية للمنازل والصالونات معرفة المزيد عرض جميع الخدمات أنواع الزجاج جميع أنواع الزجاج التي نقدمها تشكيلة متنوعة من أجود أنواع الزجاج لتناسب جميع احتياجاتك ومشاريعك زجاج شفاف جمال النقاء والوضوح يضيء مساحاتك عرض التفاصيل زجاج سكريت خصوصية أنيقة مع ضوء ناعم عرض التفاصيل زجاج مظلل وملون عزل حراري ولمسة معمارية جذابة عرض التفاصيل زجاج عاكس حماية واعتماد على الطاقة عرض التفاصيل عرض جميع الأنواع جميع أنواع الزجاج شفاف نقاء لا يضاهى زجاج شفاف تركيب زجاج شفاف بأعلى معايير الجودة والدقة ليمنح مساحتك مظهراً عصرياً وأنيقاً. نوفر حلول تركيب احترافية تضمن وضوحاً بصرياً مثالياً، مع الاستفادة الكاملة من الإضاءة الطبيعية لإضفاء إحساس بالاتساع والجمال. تنفيذ متقن يناسب المنازل، والمكاتب، والواجهات التجارية، مع تشطيبات دقيقة وجودة تدوم لسنوات. تركيب احترافي، جودة موثوقة، وأناقة تعكس فخامة المكان. وضوح بصري: نقاء يمنحك رؤية مثالية إضاءة طبيعية: توزيع مثالي للضوء في كل الزوايا مواصفات قياسية: صناعة دقيقة ومطابقة للمواصفات متانة استثنائية: يدوم جماله لسنوات طويلة مجالات الاستخدام المثالية: نوافذ القصور والفيلات أبواب داخلية فاخرة واجهات المحلات التجارية فواصل مكتبية عصرية اطلب استشارة مجانية سكريت خصوصية راقية زجاج سكريت تركيب زجاج سكريت عازل للرؤية بأعلى معايير الجودة والإتقان. يجمع بين العزل البصري التام ونفاذية الضوء المثالية، ليخلق لك بيئة هادئة ومريحة. اختيار مثالي للأماكن التي تريد فيها الخصوصية دون التضحية بالجمال. خصوصية بلا حدود، وأناقة لا تُقاوم. خصوصية تامة: عزل بصري مثالي ضوء ناعم: إضاءة طبيعية مريحة للعين تصميم أنيق: يضيف لمسة جمالية فريدة جودة عالية: صناعة متقنة تدوم طويلاً مجالات الاستخدام المثالية: حمامات القصور والفيلات غرف النوم الرئيسية مكاتب الإدارة غرف الاجتماعات اطلب استشارة مجانية درابزين فخامة عصرية درابزين زجاج تركيب درابزين زجاجي فاخر.. تحفة فنية تزين مساحاتك حوّل سلالمك وشرفاتك إلى لوحات عصرية مع خدماتنا المتميزة في تفصيل وتركيب الدرابزين الزجاجي. نجمع بين الأمان الفائق والجمال الأخّاذ باستخدام أجود أنواع الزجاج وإطارات الستانلس ستيل أو الكروم المقاوم للصدأ. تصاميمنا تجمع بين المتانة الفنية واللمسة الجمالية الراقية لتمنح مساحاتك أناقة لا تُضاهى. متانة فائقة: يتحمل أعلى الضغوط تصميم عصري: يضفي لمسة عصرية راقية إطارات فاخرة: كروم أو ستانلس ستيل مقاوم للصدأ: يدوم جماله للأبد مجالات الاستخدام المثالية: سلالم القصور والفيلات شرفات المباني السكنية بلكونات الفنادق ممرات المطاعم والكافيهات اطلب استشارة مجانية عاكس ذكاء واستدامة زجاج عاكس تركيب زجاج عاكس باحترافية عالية يمنح واجهتك مظهراً عصرياً وحماية إضافية من أشعة الشمس. يساعد على تقليل انعكاس الحرارة ودخول أشعة الشمس المباشرة، مما يساهم في توفير أجواء أكثر راحة داخل المبنى مع الحفاظ على الإضاءة الطبيعية. خيار مثالي للفلل، والمباني التجارية، والواجهات الزجاجية، بتركيب متقن وتشطيبات دقيقة تضيف لمسة من الفخامة والتميز. تركيب احترافي، أداء عالي، ومظهر أنيق يدوم لسنوات. عزل حراري: يقلل من حرارة الشمس توفير الطاقة: يخفض استهلاك الكهرباء حماية: يعكس الأشعة الضارة أناقة عصرية: يضفي طابعاً عصرياً مجالات الاستخدام المثالية: واجهات المباني التجارية مكاتب الشركات الكبرى المراكز التجارية المباني الحكومية اطلب استشارة مجانية ملون لمسة إبداعية زجاج ملون تركيب زجاج ملون باحترافية عالية يضفي على مساحتك لمسة من الأناقة والتميز. نوفر تركيب الزجاج الملون بدقة وإتقان ليمنح الواجهات والتصاميم الداخلية مظهراً فريداً، مع خيارات متعددة من الألوان التي تناسب مختلف الأذواق والديكورات. حل مثالي للمنازل، والفلل، والمحلات التجارية، والمكاتب، بتنفيذ احترافي وتشطيبات دقيقة تجمع بين الجمال والجودة والمتانة. تركيب متقن، ألوان مميزة، وتصاميم تعكس فخامة المكان. تشكيلة ألوان: يناسب جميع الأذواق جمال فني: يضفي لمسة إبداعية جودة عالية: ألوان ثابتة لا تتغير تميز: يمنح المباني هوية خاصة مجالات الاستخدام المثالية: ديكورات القصور والفيلات واجهات المباني الفنية فواصل داخلية إبداعية أبواب مميزة اطلب استشارة مجانية أمان حماية لا تُضاهى زجاج أمان (مقسّى) تركيب زجاج سيكوريت مقسّى باحترافية عالية يجمع بين القوة والأناقة في آنٍ واحد. يتميز بمتانة عالية ومقاومة للاستخدام اليومي، مما يجعله خياراً مثالياً للمنازل، والمكاتب، والواجهات الزجاجية بمختلف أنواعها. تنفيذ احترافي وتشطيبات دقيقة تمنح المكان مظهراً عصرياً وجودة تدوم لسنوات مع أداء موثوق في مختلف الاستخدامات. تركيب متقن، جودة عالية، ولمسة عصرية تكتمل بها مساحتك. متانة خارقة: يتحمل أعلى الضغوط سلامة تامة: يتفتت لقطع غير حادة حماية قصوى: مثالي للمنشآت الحيوية معايير معتمدة: مطابقة لمواصفات الأمان ومقاومة الصدمات مجالات الاستخدام المثالية: المباني الحكومية والوزارات البنوك والمؤسسات المالية المحلات التجارية الكبرى الأبواب الرئيسية للقصور اطلب استشارة مجانية شركات ومكاتب حلول مكتبية عصرية زجاج شركات ومكاتب تركيب زجاج للشركات والمكاتب بتصاميم عصرية تلائم مختلف بيئات العمل. نوفر تنفيذ الفواصل والأبواب الزجاجية بدقة عالية لإضفاء مظهر منظم واحترافي، مع استغلال مثالي للمساحات والحفاظ على الإضاءة الطبيعية. حل مناسب للمكاتب الإدارية، والشركات، وقاعات الاجتماعات، باستخدام زجاج سيكوريت وإكسسوارات عالية الجودة بتشطيبات أنيقة. تنفيذ احترافي، تصميم عصري، وجودة تليق بأعمالك. زجاج سيكوريت: آمن وعالي المتانة فواصل مكتبية: تصميم عصري وأنيق أبواب زجاجية: سحب أو مفصلية حسب الطلب إكسسوارات فاخرة: أسود مطفي أو ستانلس ستيل مجالات الاستخدام المثالية: الشركات المكاتب الإدارية قاعات الاجتماعات المعارض والمراكز التجارية اطلب استشارة مجانية مرايا ديكورية أناقة ووضوح زجاج مرايا ديكورية وجدارية تركيب جميع زجاج المرايا الديكورية والجدارية بأعلى معايير الجودة ليمنح المساحات مظهراً راقياً واتساعاً بصرياً، مع تنفيذ احترافي وتشطيبات دقيقة يناسب المنازل، الصالونات، المشاغل، والمحلات، باستخدام مرايا عالية الوضوح وتشطيبات متقنة تضمن الجودة والجمال. وضوح عالي: انعكاس نقي ودقيق تصنيع حسب الطلب: جميع المقاسات جودة ممتازة: مقاومة للرطوبة تشطيب احترافي: يناسب مختلف الديكورات مجالات الاستخدام المثالية: الصالونات والمشاغل المنازل والفلل المحلات التجارية صالات الاستقبال اطلب استشارة مجانية جميع أنواع الزجاج متوفرة بأحجام وتشطيبات متعددة حسب رغبتك اطلب استشارة مجانية جميع أنواع الزجاج السكريت جميع أنواع الزجاج متوفرة بأحجام وتشطيبات متعددة حسب رغبتك. اطلب استشارة مجانية 0 مشروعاً منفذاً 0 عميلاً من الشركات 0 سنوات من الخبرة 0 حي في الرياض أين نتواجد نغطي جميع أحياء الرياض حي العليا حي النرجس حي الياسمين حي الملقا حي الصحافة حي الرمال حي قرطبة حي لبن حي العارض والمزيد... آلية العمل خطوات تنفيذ مشروعك معنا 01 استشارة مجانية نتواصل معك لفهم احتياجاتك ومتطلبات مشروعك 02 تصميم وقياس نقوم بزيارة الموقع وأخذ القياسات بدقة 03 عرض السعر نقدم لك عرض سعر تفصيلي وشفاف 04 تركيب احترافي ننفذ المشروع بأعلى معايير الجودة والدقة 05 تسليم وضمان نسلم المشروع ونقدم لك ضماناً على جميع الأعمال موقعنا أين تجدنا في الرياض 📍 اضغط لفتح الموقع في Google Maps تواصل معنا نحن هنا لخدمتك، تواصل معنا لأي استفسار أو طلب الهاتف +966 55 449 3452 واتساب +966 55 449 3452 ساعات العمل جميع أيام الأسبوع 24 ساعة أرسل رسالة الماسة للزجاج نحن في الماسة للزجاج متخصصون في تنفيذ وتركيب جميع أعمال الزجاج السيكوريت في الرياض، ونقدم حلولاً زجاجية عصرية للمنازل والفلل والمكاتب والمشاريع التجارية. تشمل خدماتنا تركيب واجهات الزجاج، والأبواب الزجاجية، والشورات الزجاجية، وفواصل المكاتب، والدرابزين الزجاجي، والمرايا الديكورية، مع الالتزام بأعلى معايير الجودة والسلامة والدقة في التنفيذ. نستخدم أجود الخامات وأحدث تقنيات التركيب لنضمن لعملائنا نتائج تجمع بين المتانة والأناقة والتصميم العصري، مع الحرص على إنجاز جميع الأعمال في الوقت المحدد وتحقيق أعلى مستويات رضا العملاء. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا زجاج سكريت واجهات زجاجية شورات زجاجية درابزين زجاجي أبواب زجاجية قواطع وفواصل زجاجية مرايا ديكورية زجاج ملون ومظلل معلومات الاتصال +966 55 449 3452 +966 55 449 3452 الرياض، المملكة العربية السعودية © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "projects.html": {
+    "file": "projects.html",
+    "title": "المشاريع المنفذة - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+    "description": "معرض مشاريع الماسة للزجاج في الرياض: تركيب واجهات زجاج سكريت، كبائن شاور، درابزين زجاجي، فواصل مكاتب، ومرايا ديكورية بأعلى جودة وإتقان.",
+    "keywords": "مشاريع زجاج سكريت بالرياض, أعمال تركيب زجاج, معرض زجاج سكريت, مشاريع الماسة للزجاج",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/projects.html",
+    "og": {
+      "og:title": "المشاريع المنفذة - الماسة للزجاج | أفضل شركة تركيب زجاج سكريت بالرياض",
+      "og:description": "شاهد مشاريع الماسة للزجاج في تركيب الزجاج السكريت والواجهات الزجاجية بالرياض.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/projects.html",
+      "og:image": "https://almasa-glass.com/assets/images/og-image.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "المشاريع المنفذة - الماسة للزجاج | تركيب زجاج سكريت بالرياض",
+      "twitter:description": "معرض مشاريع الماسة للزجاج في الرياض: تركيب واجهات زجاج سكريت، كبائن شاور، درابزين زجاجي، فواصل مكاتب، ومرايا ديكورية.",
+      "twitter:image": "https://almasa-glass.com/assets/images/og-image.webp"
+    },
+    "h1": [
+      "مشاريع الماسة للزجاج"
+    ],
+    "h2": [
+      "أحدث مشاريعنا في تركيب الزجاج",
+      "هل تريد مشروعاً مميزاً مثل هذه؟"
+    ],
+    "h3": [
+      "زجاج سكريت للقصور",
+      "واجهات زجاجية للفلل",
+      "درابزين زجاجي للسلالم",
+      "شورات زجاجية للحمامات",
+      "واجهات زجاجية عاكسة",
+      "زجاج سكريت للمكاتب",
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "assets/images/qsor.webp",
+        "alt": "تركيب زجاج سكريت للقصور بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/fll.webp",
+        "alt": "واجهات زجاجية للفلل بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/hero-poster.webp",
+        "alt": "درابزين زجاجي للسلالم بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/types/frosted.webp",
+        "alt": "شورات زجاجية للحمامات بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/types/reflective.webp",
+        "alt": "واجهات زجاجية عاكسة للمباني التجارية",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/types/offices.webp",
+        "alt": "زجاج سكريت للمكاتب بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/services/frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "/services/clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "/services/showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "/services/railings.html",
+        "text": "تركيب درابزين زجاجي"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الزجاج السكريت",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "المشاريع",
+            "item": "https://almasa-glass.com/projects.html"
+          }
+        ]
+      }
+    ],
+    "word_count": 214,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 مشاريع الماسة للزجاج أكثر من 500 مشروع منفذ في تركيب الزجاج السكريت والواجهات الزجاجية بالرياض الرئيسية / المشاريع معرض الأعمال أحدث مشاريعنا في تركيب الزجاج نفخر بتقديم أفضل أعمال تركيب الزجاج السكريت للقصور والفلل والمباني التجارية في الرياض زجاج سكريت للقصور تركيب زجاج سكريت للقصور في الرياض بأعلى جودة قصور واجهات زجاجية للفلل تصميم وتركيب واجهات زجاجية عصرية للفلل فلل درابزين زجاجي للسلالم تركيب درابزين زجاجي للسلالم بأحدث التصاميم درابزين شورات زجاجية للحمامات تركيب كبائن شاور زجاجية فاخرة للحمامات شاور واجهات زجاجية عاكسة تركيب واجهات زجاجية عاكسة للمباني التجارية تجاري زجاج سكريت للمكاتب تركيب زجاج سكريت للحمامات والغرف في المكاتب مكاتب 500مشروعاً منفذاً 10سنوات من الخبرة 180عميلاً من الشركات 160حي في الرياض نخدمها هل تريد مشروعاً مميزاً مثل هذه؟ تواصل معنا الآن للحصول على استشارة مجانية لتركيب الزجاج السكريت في الرياض اطلب استشارة مجانية الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/clear-glass.html": {
+    "file": "services/clear-glass.html",
+    "title": "تركيب واجهات زجاجية بالرياض | الماسة للزجاج - أفضل شركة واجهات زجاج",
+    "description": "أفضل خدمات تركيب واجهات زجاجية بالرياض. تركيب واجهات زجاجية للفلل والقصور والمباني التجارية بدقة وجودة عالية في تنفيذ الزجاج الشفاف والعاكس.",
+    "keywords": "واجهات زجاجية, تركيب واجهات زجاجية بالرياض, واجهات زجاج للفلل, واجهات زجاج للقصور, زجاج شفاف, فني واجهات زجاجية, مقاول واجهات زجاجية, شركة واجهات زجاجية",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/clear-glass.html",
+    "og": {
+      "og:title": "تركيب واجهات زجاجية بالرياض | الماسة للزجاج - أفضل شركة واجهات زجاج",
+      "og:description": "واجهات زجاجية بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/clear-glass.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/clear.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب واجهات زجاجية بالرياض | الماسة للزجاج - أفضل شركة واجهات زجاج",
+      "twitter:description": "واجهات زجاجية بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/clear.webp"
+    },
+    "h1": [
+      "تركيب واجهات زجاجية بالرياض"
+    ],
+    "h2": [
+      "تركيب واجهات زجاجية عصرية في الرياض",
+      "جميع أنواع الواجهات الزجاجية التي نركبها",
+      "هل تريد تركيب واجهات زجاجية لمشروعك؟"
+    ],
+    "h3": [
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "واجهات زجاجية للفلل",
+      "واجهات زجاجية للقصور",
+      "واجهات زجاجية للمحلات",
+      "واجهات زجاجية عاكسة",
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/types/clear.webp",
+        "alt": "تركيب واجهات زجاجية بالرياض - الماسة للزجاج",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على استشارة مجانية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "تركيب درابزين زجاجي"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الواجهات الزجاجية",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "خدماتنا",
+            "item": "https://almasa-glass.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "واجهات زجاجية",
+            "item": "https://almasa-glass.com/services/clear-glass.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "تركيب واجهات زجاجية بالرياض",
+        "description": "خدمة تركيب واجهات زجاجية للفلل والقصور والمباني التجارية في الرياض",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "telephone": "+966554493452"
+        },
+        "serviceType": "تركيب واجهات زجاجية",
+        "areaServed": "الرياض"
+      }
+    ],
+    "word_count": 247,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب واجهات زجاجية بالرياض تصميم وتركيب واجهات زجاجية عصرية للفلل والقصور والمباني التجارية الرئيسية / الخدمات / واجهات زجاجية خدمتنا تركيب واجهات زجاجية عصرية في الرياض في الماسة للزجاج، نقدم خدمة تركيب واجهات زجاجية احترافية في الرياض. تعد الواجهات الزجاجية من أهم عناصر التصميم الحديث التي تضفي جمالاً وأناقة على المباني. نستخدم أجود أنواع الزجاج الشفاف والعاكس لضمان واجهات زجاجية متينة وجذابة. فريقنا من فنيي الواجهات الزجاجية المدربين يضمن لك تنفيذاً احترافياً. تركيب واجهات زجاجية للفلل تركيب واجهات زجاجية للقصور تركيب واجهات زجاجية للمباني التجارية ضمان 5 سنوات على التركيب احصل على استشارة مجانية أنواع الواجهات الزجاجية جميع أنواع الواجهات الزجاجية التي نركبها نركب جميع أنواع الواجهات الزجاجية في الرياض حسب احتياجاتك واجهات زجاجية للفلل واجهات زجاجية عصرية تضيف لمسة جمالية للفلل واجهات زجاجية للقصور واجهات زجاجية فاخرة تضفي فخامة على القصور واجهات زجاجية للمحلات واجهات زجاجية جذابة للمحلات التجارية واجهات زجاجية عاكسة واجهات زجاجية عاكسة للحرارة توفير الطاقة هل تريد تركيب واجهات زجاجية لمشروعك؟ تواصل مع فريق الماسة للزجاج للحصول على استشارة مجانية تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/frosted-glass.html": {
+    "file": "services/frosted-glass.html",
+    "title": "تركيب زجاج سكريت بالرياض | الماسة للزجاج - أفضل فني زجاج سكريت",
+    "description": "أفضل خدمات تركيب زجاج سكريت ومثلج بالرياض. نقدم تركيب زجاج سكريت للحمامات والغرف والمكاتب بأعلى جودة وإتقان وتوفير الخصوصية التامة.",
+    "keywords": "زجاج سكريت, تركيب زجاج سكريت بالرياض, زجاج سكريت للحمامات, فني زجاج سكريت, عامل زجاج سكريت, مقاول زجاج سكريت, زجاج سكريت للغرف, زجاج سكريت للمكاتب, أفضل شركة زجاج سكريت",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/frosted-glass.html",
+    "og": {
+      "og:title": "تركيب زجاج سكريت بالرياض | الماسة للزجاج - أفضل فني زجاج سكريت",
+      "og:description": "زجاج سكريت ومثلج بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/frosted-glass.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/frosted.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب زجاج سكريت بالرياض | الماسة للزجاج - أفضل فني زجاج سكريت",
+      "twitter:description": "زجاج سكريت ومثلج بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/frosted.webp"
+    },
+    "h1": [
+      "تركيب زجاج سكريت بالرياض"
+    ],
+    "h2": [
+      "تركيب زجاج سكريت للحمامات والغرف في الرياض",
+      "جميع أنواع الزجاج السكريت التي نركبها",
+      "لماذا تختار الماسة للزجاج لتركيب الزجاج السكريت؟",
+      "هل تريد تركيب زجاج سكريت في منزلك أو مكتبك؟"
+    ],
+    "h3": [
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "زجاج سكريت للحمامات",
+      "زجاج سكريت للغرف",
+      "زجاج سكريت للمكاتب",
+      "زجاج سكريت للقصور",
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/types/frosted.webp",
+        "alt": "تركيب زجاج سكريت بالرياض - الماسة للزجاج",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "../assets/images/hero-poster.webp",
+        "alt": "فني زجاج سكريت بالرياض - الماسة للزجاج",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على استشارة مجانية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على عرض سعر"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "تركيب درابزين زجاجي"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الزجاج السكريت",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "خدماتنا",
+            "item": "https://almasa-glass.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "زجاج سكريت ومثلج",
+            "item": "https://almasa-glass.com/services/frosted-glass.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "تركيب زجاج سكريت بالرياض",
+        "description": "خدمة تركيب زجاج سكريت للحمامات والغرف والمكاتب في الرياض بأعلى جودة",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "telephone": "+966554493452",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "الرياض",
+            "addressCountry": "SA"
+          }
+        },
+        "serviceType": "تركيب زجاج سكريت",
+        "areaServed": "الرياض"
+      }
+    ],
+    "word_count": 326,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب زجاج سكريت بالرياض خدمة احترافية لتركيب زجاج سكريت للحمامات والغرف والمكاتب بأعلى جودة الرئيسية / الخدمات / زجاج سكريت خدمتنا تركيب زجاج سكريت للحمامات والغرف في الرياض في الماسة للزجاج، نقدم خدمة تركيب زجاج سكريت احترافية في الرياض. يعتبر الزجاج السكريت الخيار الأمثل لمن يبحث عن الخصوصية مع الحفاظ على الإضاءة الطبيعية في الحمامات والغرف والمكاتب. فريقنا من فنيي الزجاج السكريت المدربين يضمن لك تنفيذاً متقناً بمعايير عالية الجودة. نستخدم أجود أنواع الزجاج السكريت لضمان المتانة والجمال معاً. تركيب زجاج سكريت للحمامات تركيب زجاج سكريت للغرف تركيب زجاج سكريت للمكاتب ضمان 5 سنوات على التركيب احصل على استشارة مجانية أنواع الزجاج السكريت جميع أنواع الزجاج السكريت التي نركبها نركب جميع أنواع الزجاج السكريت في الرياض حسب احتياجاتك زجاج سكريت للحمامات تركيب زجاج سكريت للحمامات يوفر الخصوصية والأناقة زجاج سكريت للغرف فصل الغرف بزجاج سكريت شفاف مع الإضاءة الطبيعية زجاج سكريت للمكاتب فواصل مكتبية من الزجاج السكريت للخصوصية والإنتاجية زجاج سكريت للقصور تركيب زجاج سكريت فاخر للقصور والفلل لماذا نحن لماذا تختار الماسة للزجاج لتركيب الزجاج السكريت؟ نحن في الماسة للزجاج نفهم أهمية تركيب الزجاج السكريت بشكل احترافي. فريقنا من أفضل فنيي الزجاج السكريت في الرياض يضمن لك: خبرة 10 سنوات في تركيب الزجاج السكريت فنيون محترفون مدربون على أعلى مستوى جودة ألمانية في الزجاج والتركيب ضمان 5 سنوات على جميع الأعمال أسعار تنافسية وعروض خاصة احصل على عرض سعر هل تريد تركيب زجاج سكريت في منزلك أو مكتبك؟ تواصل مع فريق الماسة للزجاج للحصول على استشارة مجانية لتركيب الزجاج السكريت في الرياض تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/glass-doors.html": {
+    "file": "services/glass-doors.html",
+    "title": "تركيب أبواب زجاجية بالرياض | الماسة للزجاج - أفضل شركة أبواب زجاج",
+    "description": "أفضل خدمات تركيب أبواب زجاجية بالرياض. نقدم تركيب أبواب زجاجية داخلية وخارجية وسحاب ومفصلي بتصاميم عصرية ومفصلات ستانلس متينة.",
+    "keywords": "أبواب زجاجية, تركيب أبواب زجاجية بالرياض, أبواب زجاج سيكوريت, أبواب زجاج للفلل, فني أبواب زجاجية, مقاول أبواب زجاجية, شركة أبواب زجاجية",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/glass-doors.html",
+    "og": {
+      "og:title": "تركيب أبواب زجاجية بالرياض | الماسة للزجاج - أفضل شركة أبواب زجاج",
+      "og:description": "أبواب زجاجية بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/glass-doors.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/clear.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب أبواب زجاجية بالرياض | الماسة للزجاج - أفضل شركة أبواب زجاج",
+      "twitter:description": "أبواب زجاجية بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/clear.webp"
+    },
+    "h1": [
+      "تركيب أبواب زجاجية بالرياض"
+    ],
+    "h2": [
+      "تركيب أبواب زجاجية عصرية في الرياض",
+      "جميع أنواع الأبواب الزجاجية التي نركبها",
+      "هل تريد تركيب أبواب زجاجية في منزلك أو مكتبك؟"
+    ],
+    "h3": [
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "أبواب زجاجية داخلية",
+      "أبواب زجاجية خارجية",
+      "أبواب زجاجية للقصور",
+      "أبواب زجاجية للمحلات",
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/avatar.webp",
+        "alt": "تركيب أبواب زجاجية بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على استشارة مجانية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "تركيب درابزين زجاجي"
+      },
+      {
+        "href": "glass-doors.html",
+        "text": "تركيب أبواب زجاجية"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الأبواب الزجاجية",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "خدماتنا",
+            "item": "https://almasa-glass.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "أبواب زجاجية",
+            "item": "https://almasa-glass.com/services/glass-doors.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "تركيب أبواب زجاجية بالرياض",
+        "description": "خدمة تركيب أبواب زجاجية داخلية وخارجية للفلل والشركات في الرياض",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "telephone": "+966554493452"
+        },
+        "serviceType": "تركيب أبواب زجاجية",
+        "areaServed": "الرياض"
+      }
+    ],
+    "word_count": 254,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب أبواب زجاجية بالرياض تصميم وتركيب أبواب زجاجية داخلية وخارجية بتصاميم عصرية الرئيسية / الخدمات / أبواب زجاجية خدمتنا تركيب أبواب زجاجية عصرية في الرياض في الماسة للزجاج، نقدم خدمة تركيب أبواب زجاجية احترافية في الرياض. تعتبر الأبواب الزجاجية من أهم عناصر التصميم الحديث التي تضفي أناقة وشفافية على المساحات. نستخدم أجود أنواع الزجاج السيكوريت مع إطارات من الستانلس ستيل والألومنيوم لضمان أبواب زجاجية متينة وآمنة. فريقنا من فنيي الأبواب الزجاجية يضمن لك تنفيذاً احترافياً. تركيب أبواب زجاجية داخلية تركيب أبواب زجاجية خارجية تركيب أبواب زجاجية للفلل ضمان 5 سنوات على التركيب احصل على استشارة مجانية أنواع الأبواب الزجاجية جميع أنواع الأبواب الزجاجية التي نركبها نركب جميع أنواع الأبواب الزجاجية في الرياض حسب احتياجاتك أبواب زجاجية داخلية أبواب زجاجية للغرف والمكاتب بتصاميم عصرية أبواب زجاجية خارجية أبواب زجاجية للفلل والقصور متينة وآمنة أبواب زجاجية للقصور أبواب زجاجية فاخرة تضفي فخامة على القصور أبواب زجاجية للمحلات أبواب زجاجية جذابة للمحلات التجارية هل تريد تركيب أبواب زجاجية في منزلك أو مكتبك؟ تواصل مع فريق الماسة للزجاج للحصول على استشارة مجانية تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي تركيب أبواب زجاجية معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/index.html": {
+    "file": "services/index.html",
+    "title": "خدمات تركيب الزجاج - الماسة للزجاج | أفضل شركة زجاج سكريت بالرياض",
+    "description": "نقدم جميع خدمات تركيب وتوريد الزجاج السكريت والواجهات الزجاجية بالرياض بأعلى معايير الإتقان: واجهات زجاجية، شورات وكبائن، درابزين، فواصل، مرايا، وأبواب زجاجية.",
+    "keywords": "خدمات تركيب زجاج سكريت بالرياض, شركة زجاج سكريت, تركيب واجهات زجاجية, تركيب شورات زجاجية, تركيب درابزين زجاجي, تركيب مرايا, قواطع زجاجية, فني زجاج سكريت",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/",
+    "og": {
+      "og:title": "خدمات تركيب الزجاج - الماسة للزجاج | أفضل شركة زجاج سكريت بالرياض",
+      "og:description": "نقدم باقة شاملة من خدمات تركيب وتوريد الزجاج السكريت والواجهات الزجاجية، كبائن الشاور، القواطع المكتبية، والمرايا الجدارية في الرياض.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/",
+      "og:image": "https://almasa-glass.com/assets/images/og-image.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "خدمات تركيب الزجاج - الماسة للزجاج | أفضل شركة زجاج سكريت بالرياض",
+      "twitter:description": "نقدم باقة شاملة من خدمات تركيب وتوريد الزجاج السكريت والواجهات الزجاجية، كبائن الشاور، القواطع المكتبية، والمرايا الجدارية في الرياض.",
+      "twitter:image": "https://almasa-glass.com/assets/images/og-image.webp"
+    },
+    "h1": [
+      "خدمات تركيب الزجاج"
+    ],
+    "h2": [
+      "نقدم لكم أفضل خدمات الزجاج في الرياض",
+      "تحتاج استشارة مجانية؟"
+    ],
+    "h3": [
+      "واجهات زجاجية",
+      "زجاج سكريت ومثلج",
+      "شورات زجاجية (كبائن شاور)",
+      "درابزين زجاجي",
+      "أبواب زجاجية",
+      "قواطع وفواصل زجاجية",
+      "مرايا ديكورية وجدارية",
+      "زجاج أمان (سيكوريت)",
+      "زجاج عاكس للحرارة",
+      "زجاج ملون ومظلل",
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "showers.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "railings.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "glass-doors.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "partitions.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "mirrors.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "security-glass.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "reflective-glass.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "tinted-glass.html",
+        "text": "معرفة المزيد"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اطلب استشارة مجانية"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "تركيب درابزين زجاجي"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الزجاج السكريت",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "خدماتنا",
+            "item": "https://almasa-glass.com/services/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "خدمات شركة الماسة للزجاج بالرياض",
+        "description": "قائمة خدمات تركيب الزجاج السكريت والواجهات والديكورات الزجاجية بالرياض",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "تركيب واجهات زجاجية",
+            "url": "https://almasa-glass.com/services/clear-glass.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "تركيب زجاج سكريت ومثلج",
+            "url": "https://almasa-glass.com/services/frosted-glass.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "تركيب شورات وكبائن زجاجية",
+            "url": "https://almasa-glass.com/services/showers.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "تركيب درابزين زجاجي",
+            "url": "https://almasa-glass.com/services/railings.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "تركيب أبواب زجاجية",
+            "url": "https://almasa-glass.com/services/glass-doors.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "تركيب قواطع وفواصل زجاجية",
+            "url": "https://almasa-glass.com/services/partitions.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "name": "تركيب مرايا ديكورية وجدارية",
+            "url": "https://almasa-glass.com/services/mirrors.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "name": "تركيب زجاج أمان وسيكوريت",
+            "url": "https://almasa-glass.com/services/security-glass.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "name": "تركيب زجاج عاكس للحرارة",
+            "url": "https://almasa-glass.com/services/reflective-glass.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "name": "تركيب زجاج ملون ومظلل",
+            "url": "https://almasa-glass.com/services/tinted-glass.html"
+          }
+        ]
+      }
+    ],
+    "word_count": 285,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 خدمات تركيب الزجاج نقدم جميع خدمات تركيب الزجاج السكريت والواجهات الزجاجية في الرياض الرئيسية / الخدمات جميع الخدمات نقدم لكم أفضل خدمات الزجاج في الرياض تشكيلة واسعة من خدمات تركيب الزجاج السكريت والواجهات الزجاجية بأعلى جودة واجهات زجاجية تركيب واجهات زجاجية عصرية واستركشر للفلل والقصور والمباني التجارية معرفة المزيد زجاج سكريت ومثلج تركيب زجاج سكريت مصنفر ومثلج يوفر الخصوصية التامة مع السماح بنفاذ الضوء معرفة المزيد شورات زجاجية (كبائن شاور) تصميم وتركيب كبائن شاور زجاجية فاخرة للحمامات بإكسسوارات ستانلس ستيل معرفة المزيد درابزين زجاجي تركيب درابزين زجاجي للسلالم والشرفات والمسابح بأحدث التصاميم وأنظمة التثبيت معرفة المزيد أبواب زجاجية تركيب أبواب زجاج سكريت سحاب ومفصلي للمكاتب والمعارض والمداخل الفاخرة معرفة المزيد قواطع وفواصل زجاجية تركيب قواطع وفواصل زجاجية للمكاتب والشركات لعزل الصوت وتنظيم المساحات معرفة المزيد مرايا ديكورية وجدارية تركيب مرايا ديكورية وجدارية وشطف للمنازل والصالونات والمداخل بأحدث التصاميم معرفة المزيد زجاج أمان (سيكوريت) تركيب زجاج سيكوريت وأمان مقسى للمنشآت والمباني التجارية والحيوية معرفة المزيد زجاج عاكس للحرارة تركيب زجاج عاكس للحرارة وأشعة الشمس للواجهات الخارجية للمباني الحديثة معرفة المزيد زجاج ملون ومظلل تركيب زجاج ملون ومظلل بألوان متعددة لتوفير الخصوصية وتقليل الوهج والحرارة معرفة المزيد تحتاج استشارة مجانية؟ تواصل مع فريق الماسة للزجاج للحصول على استشارة مجانية لتركيب الزجاج السكريت في الرياض اطلب استشارة مجانية الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/mirrors.html": {
+    "file": "services/mirrors.html",
+    "title": "تركيب مرايا ديكورية بالرياض | الماسة للزجاج - تفصيل مرايا جدارية",
+    "description": "خدمات تفصيل وتركيب مرايا ديكورية وجدارية بالرياض. مرايا صالونات، مجالس، غرف نوم، ومداخل بأحدث التصاميم العصرية وبأعلى درجات النقاء والوضوح.",
+    "keywords": "مرايا ديكورية بالرياض, تركيب مرايا جدارية, تفصيل مرايا الرياض, مرايا صالونات, مرايا بإضاءة ليد, فني مرايا الرياض",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/mirrors.html",
+    "og": {
+      "og:title": "تركيب مرايا ديكورية بالرياض | الماسة للزجاج",
+      "og:description": "تفصيل وتركيب مرايا ديكورية وجدارية بالرياض للمنازل والصالونات والمكاتب بأحدث التصاميم العصرية.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/mirrors.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/decorative-mirrors.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب مرايا ديكورية بالرياض | الماسة للزجاج",
+      "twitter:description": "تفصيل وتركيب مرايا ديكورية وجدارية فاخرة بالرياض بأعلى دقة وإتقان.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/decorative-mirrors.webp"
+    },
+    "h1": [
+      "تركيب مرايا ديكورية في الرياض"
+    ],
+    "h2": [
+      "تركيب مرايا ديكورية وجدارية في الرياض",
+      "خيارات متنوعة من المرايا الديكورية",
+      "هل ترغب في تفصيل مرايا ديكورية لمشروعك؟"
+    ],
+    "h3": [
+      "مرايا معينات وشطف",
+      "مرايا ليد LED خفي",
+      "مرايا صالونات ومحلات",
+      "مرايا مداخل ودواليب",
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "تواصل معنا"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/types/decorative-mirrors.webp",
+        "alt": "تركيب مرايا ديكورية بالرياض",
+        "width": "600",
+        "height": "502",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على استشارة ومعاينة"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "درابزين زجاج"
+      },
+      {
+        "href": "glass-doors.html",
+        "text": "أبواب زجاجية"
+      },
+      {
+        "href": "partitions.html",
+        "text": "قواطع وفواصل زجاجية"
+      },
+      {
+        "href": "mirrors.html",
+        "text": "مرايا ديكورية"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "تواصل عبر الواتساب"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": ""
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "تركيب مرايا ديكورية وجدارية بالرياض",
+            "description": "خدمة تفصيل وتركيب مرايا ديكورية وجدارية للصالونات والمنازل والمكاتب في الرياض بدقة عالية",
+            "provider": {
+              "@type": "LocalBusiness",
+              "name": "الماسة للزجاج",
+              "telephone": "+966554493452",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "الرياض",
+                "addressRegion": "الرياض",
+                "addressCountry": "SA"
+              }
+            },
+            "serviceType": "تركيب مرايا ديكورية",
+            "areaServed": "الرياض"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "الرئيسية",
+                "item": "https://almasa-glass.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "الخدمات",
+                "item": "https://almasa-glass.com/services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "مرايا ديكورية",
+                "item": "https://almasa-glass.com/services/mirrors.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "word_count": 270,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب مرايا ديكورية في الرياض تصميم وتفصيل مرايا جدارية وديكورية فاخرة للمنازل والمجالس والصالونات والمحلات الرئيسية / الخدمات / مرايا ديكورية خدمتنا تركيب مرايا ديكورية وجدارية في الرياض في الماسة للزجاج، نقدم خدمة تفصيل وتركيب مرايا ديكورية باحترافية عالية في الرياض. تضفي المرايا لمسة من الاتساع والأناقة العصرية على المداخل والممرات والصالونات والغرف والمشاغل. نعتمد على أجود أنواع المرايا عالية النقاء الخالية من التشوه أو التموج، مع خيارات قص وتشكيل متطورة تناسب كل تصميم داخلي. تفصيل مرايا شطف ليزر بأشكال هندسية ومعينات مرايا جدارية عصرية بإضاءة LED مدمجة (ليد خفي) مرايا صالونات ومشاغل ومغاسل ومداخل ومجالس فنيون متخصصون وتنفيذ دقيق بمقاسات مخصصة احصل على استشارة ومعاينة أنواع وتصاميم المرايا خيارات متنوعة من المرايا الديكورية نلبي متطلبات الديكور العصري والكلاسيكي بأعلى درجات الإتقان مرايا معينات وشطف قطع مرايا مقطوعة ومصقولة بزوايا هندسية تزين جدران المجالس والصالات مرايا ليد LED خفي مرايا فاخرة بإضاءة خلفية ولمسية ذكية للمغاسل وغرف الملابس مرايا صالونات ومحلات مرايا كاملة الارتفاع عالية الوضوح تلائم الصالونات والمشاغل والنوادي الرياضية مرايا مداخل ودواليب تصاميم أنيقة تمنح المداخل رحابة فسيحة وتعكس جمال الإضاءة والديكور هل ترغب في تفصيل مرايا ديكورية لمشروعك؟ تواصل مع فريق الماسة للزجاج بالرياض لمعاينة الموقع ورفع المقاسات بدقة تواصل عبر الواتساب الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية ومرايا فاخرة في جميع أحياء الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا زجاج سكريت واجهات زجاجية شورات زجاجية درابزين زجاج أبواب زجاجية قواطع وفواصل زجاجية مرايا ديكورية تواصل معنا الرياض، حي الفيصيلية +966 55 449 3452 info@almasa-glass.com © 2026 الماسة للزجاج. جميع الحقوق محفوظة. واتساب اتصال أعلى"
+  },
+  "services/partitions.html": {
+    "file": "services/partitions.html",
+    "title": "تركيب قواطع وفواصل زجاجية بالرياض | الماسة للزجاج - فواصل زجاج مكاتب",
+    "description": "أفضل خدمات تركيب قواطع وفواصل زجاجية بالرياض للمكاتب والشركات والمنازل. قواطع زجاج سكريت ثابتة ومتحركة، عزل صوتي، وتشطيبات ألمنيوم وستانلس ستيل عصرية.",
+    "keywords": "قواطع زجاجية بالرياض, فواصل زجاج مكاتب, بارتشن زجاج الرياض, قواطع زجاج سكريت, فواصل شركات, فني قواطع زجاج",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/partitions.html",
+    "og": {
+      "og:title": "تركيب قواطع وفواصل زجاجية بالرياض | الماسة للزجاج",
+      "og:description": "خدمات توريد وتركيب قواطع وفواصل زجاجية سكريت للمكاتب والشركات والمنازل في الرياض بأعلى معايير الإتقان.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/partitions.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/offices.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب قواطع وفواصل زجاجية بالرياض | الماسة للزجاج",
+      "twitter:description": "تركيب قواطع وفواصل زجاجية سكريت عصرية للمكاتب والشركات بالرياض.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/offices.webp"
+    },
+    "h1": [
+      "تركيب قواطع وفواصل زجاجية بالرياض"
+    ],
+    "h2": [
+      "فواصل وقواطع زجاج سكريت عصرية",
+      "أنظمة القواطع الزجاجية التي نركبها",
+      "هل تخطط لتقسيم مكتبك أو شركتك بـ قواطع زجاجية؟"
+    ],
+    "h3": [
+      "فواصل مكاتب وشركات",
+      "قواطع زجاج مثلج للخصوصية",
+      "فواصل مع أبواب سحاب",
+      "قواطع داخلية للمنازل",
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "تواصل معنا"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/types/offices.webp",
+        "alt": "تركيب قواطع وفواصل زجاجية بالرياض",
+        "width": "600",
+        "height": "1052",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "طلب معاينة لمكتبك أو شركتك"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "درابزين زجاج"
+      },
+      {
+        "href": "glass-doors.html",
+        "text": "أبواب زجاجية"
+      },
+      {
+        "href": "partitions.html",
+        "text": "قواطع وفواصل زجاجية"
+      },
+      {
+        "href": "mirrors.html",
+        "text": "مرايا ديكورية"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "تواصل معنا عبر الواتساب"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": ""
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "تركيب قواطع وفواصل زجاجية بالرياض",
+            "description": "خدمة تفصيل وتركيب قواطع وفواصل زجاجية سكريت للمكاتب والشركات والمنازل بالرياض",
+            "provider": {
+              "@type": "LocalBusiness",
+              "name": "الماسة للزجاج",
+              "telephone": "+966554493452",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "الرياض",
+                "addressRegion": "الرياض",
+                "addressCountry": "SA"
+              }
+            },
+            "serviceType": "تركيب قواطع زجاجية",
+            "areaServed": "الرياض"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "الرئيسية",
+                "item": "https://almasa-glass.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "الخدمات",
+                "item": "https://almasa-glass.com/services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "قواطع وفواصل زجاجية",
+                "item": "https://almasa-glass.com/services/partitions.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "word_count": 297,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب قواطع وفواصل زجاجية بالرياض حلول تقسيم المساحات العصرية للمكاتب والشركات والمنازل بزجاج سكريت عالي الجودة الرئيسية / الخدمات / قواطع وفواصل زجاجية حلول الشركات والمكاتب فواصل وقواطع زجاج سكريت عصرية في الماسة للزجاج، نقدم أفضل حلول تركيب القواطع والفواصل الزجاجية في الرياض. صممت هذه القواطع لتوفير الخصوصية وعزل الضوضاء مع الحفاظ على انسيابية الضوء الطبيعي والمظهر المفتوح الراقي. نستخدم زجاج سكريت مقسّى بسماكات 10 ملم و12 ملم، مع قطاعات ألمنيوم وستانلس ستيل بألوان متعددة (أسود مطفي، فضي، وذهبي) تناسب أرقى الهويات المعمارية والمكتبية. قواطع مكتبية ثابتة ومتحركة (أنظمة بارتشن زجاج) إمكانية إضافة زجاج مثلج (صنفرة) أو استيكر مخطط للخصوصية أبواب زجاجية مدمجة (سحاب أو مفصلية بمقابض فاخرة) عزل صوتي عالي الجودة وتنفيذ سريع للمكاتب وقاعات الاجتماعات طلب معاينة لمكتبك أو شركتك خيارات القواطع المتاحة أنظمة القواطع الزجاجية التي نركبها تشكيلة مرنة تلائم مقرات العمل والمباني الإدارية والسكنية فواصل مكاتب وشركات تقسيم المساحات الإدارية وغرف المدراء وقاعات الاجتماعات بمظهر احترافي فخم قواطع زجاج مثلج للخصوصية زجاج سكريت مصنفر أو معالج بالليزر يحجب الرؤية مع نفاذ كامل للإضاءة فواصل مع أبواب سحاب أنظمة قواطع متكاملة مزودة بأبواب زجاجية انزلاقية توفر المساحة وسلاسة الاستخدام قواطع داخلية للمنازل فواصل زجاجية ديكورية تفصل بين الصالات والمجالس وتضفي لمسة عصرية فريدة هل تخطط لتقسيم مكتبك أو شركتك بـ قواطع زجاجية؟ تواصل مع خبرائنا في الماسة للزجاج لرفع المقاسات وتقديم أفضل الحلول المناسبة لمساحتك تواصل معنا عبر الواتساب الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية وقواطع متطورة في جميع أحياء الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا زجاج سكريت واجهات زجاجية شورات زجاجية درابزين زجاج أبواب زجاجية قواطع وفواصل زجاجية مرايا ديكورية تواصل معنا الرياض، حي الفيصيلية +966 55 449 3452 info@almasa-glass.com © 2026 الماسة للزجاج. جميع الحقوق محفوظة. واتساب اتصال أعلى"
+  },
+  "services/railings.html": {
+    "file": "services/railings.html",
+    "title": "تركيب درابزين زجاجي بالرياض | الماسة للزجاج - أفضل فني درابزين زجاج",
+    "description": "أفضل خدمات تركيب درابزين زجاجي بالرياض للسلالم والشرفات والمسابح والفلل بأحدث التصاميم العصرية وأنظمة التثبيت المتينة والآمنة.",
+    "keywords": "درابزين زجاجي, تركيب درابزين زجاجي بالرياض, درابزين سيكوريت, درابزين للفلل, درابزين للقصور, فني درابزين زجاج, مقاول درابزين زجاجي, شركة درابزين زجاجي",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/railings.html",
+    "og": {
+      "og:title": "تركيب درابزين زجاجي بالرياض | الماسة للزجاج - أفضل فني درابزين زجاج",
+      "og:description": "درابزين زجاجي بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/railings.html",
+      "og:image": "https://almasa-glass.com/assets/images/hero-poster.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب درابزين زجاجي بالرياض | الماسة للزجاج - أفضل فني درابزين زجاج",
+      "twitter:description": "درابزين زجاجي بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "twitter:image": "https://almasa-glass.com/assets/images/hero-poster.webp"
+    },
+    "h1": [
+      "تركيب درابزين زجاجي بالرياض"
+    ],
+    "h2": [
+      "تركيب درابزين زجاجي فاخر في الرياض",
+      "جميع أنواع الدرابزين الزجاجي التي نركبها",
+      "لماذا تختار الماسة للزجاج لتركيب الدرابزين الزجاجي؟",
+      "هل تريد تركيب درابزين زجاجي في منزلك؟"
+    ],
+    "h3": [
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "درابزين زجاجي للسلالم",
+      "درابزين زجاجي للقصور",
+      "درابزين زجاجي للفلل",
+      "درابزين زجاجي للفنادق",
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/types/tinted.webp",
+        "alt": "تركيب درابزين زجاجي بالرياض - الماسة للزجاج",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "../assets/images/hero-poster.webp",
+        "alt": "فني درابزين زجاجي بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على استشارة مجانية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على عرض سعر"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "تركيب درابزين زجاجي"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الدرابزين الزجاجي",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "خدماتنا",
+            "item": "https://almasa-glass.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "درابزين زجاجي",
+            "item": "https://almasa-glass.com/services/railings.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "تركيب درابزين زجاجي بالرياض",
+        "description": "خدمة تركيب درابزين زجاجي للسلالم والشرفات والفلل في الرياض بأعلى جودة",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "telephone": "+966554493452"
+        },
+        "serviceType": "تركيب درابزين زجاجي",
+        "areaServed": "الرياض"
+      }
+    ],
+    "word_count": 290,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب درابزين زجاجي بالرياض تصميم وتركيب درابزين زجاجي فاخر للسلالم والشرفات والفلل الرئيسية / الخدمات / درابزين زجاجي خدمتنا تركيب درابزين زجاجي فاخر في الرياض في الماسة للزجاج، نقدم خدمة تركيب درابزين زجاجي احترافية في الرياض. يعد الدرابزين الزجاجي من أبرز عناصر الديكور الحديث التي تضفي جمالاً وأناقة على السلالم والشرفات. نستخدم أجود أنواع الزجاج السيكوريت مع إطارات من الستانلس ستيل والكروم لضمان درابزين زجاجي متين وآمن. فريقنا من فنيي الدرابزين الزجاجي يضمن لك تنفيذاً احترافياً. تركيب درابزين زجاجي للسلالم تركيب درابزين زجاجي للشرفات تركيب درابزين زجاجي للفلل ضمان 5 سنوات على التركيب احصل على استشارة مجانية أنواع الدرابزين الزجاجي جميع أنواع الدرابزين الزجاجي التي نركبها نركب جميع أنواع الدرابزين الزجاجي في الرياض حسب احتياجاتك درابزين زجاجي للسلالم درابزين زجاجي للسلالم الداخلية والخارجية درابزين زجاجي للقصور درابزين زجاجي فاخر للقصور بأحدث التصاميم درابزين زجاجي للفلل درابزين زجاجي عصري يضفي أناقة على الفلل درابزين زجاجي للفنادق درابزين زجاجي فاخر للفنادق والمنتجعات مميزاتنا لماذا تختار الماسة للزجاج لتركيب الدرابزين الزجاجي؟ خبرة 10 سنوات في تركيب الدرابزين الزجاجي فنيون محترفون متخصصون في الدرابزين الزجاجي جودة ألمانية في الزجاج والإطارات ضمان 5 سنوات على جميع الأعمال تصاميم عصرية تناسب جميع الأذواق احصل على عرض سعر هل تريد تركيب درابزين زجاجي في منزلك؟ تواصل مع فريق الماسة للزجاج للحصول على استشارة مجانية تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/reflective-glass.html": {
+    "file": "services/reflective-glass.html",
+    "title": "تركيب زجاج عاكس بالرياض | الماسة للزجاج - أفضل شركة زجاج عاكس للحرارة",
+    "description": "أفضل خدمات تركيب زجاج عاكس للحرارة والطاقة بالرياض للواجهات الخارجية والمباني الحديثة لعزل أشعة الشمس وتوفير استهلاك الطاقة.",
+    "keywords": "زجاج عاكس, تركيب زجاج عاكس بالرياض, زجاج عاكس للحرارة, واجهات زجاجية عاكسة, فني زجاج عاكس, مقاول زجاج عاكس, شركة زجاج عاكس",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/reflective-glass.html",
+    "og": {
+      "og:title": "تركيب زجاج عاكس بالرياض | الماسة للزجاج - أفضل شركة زجاج عاكس للحرارة",
+      "og:description": "زجاج عاكس للحرارة بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/reflective-glass.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/reflective.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب زجاج عاكس بالرياض | الماسة للزجاج - أفضل شركة زجاج عاكس للحرارة",
+      "twitter:description": "زجاج عاكس للحرارة بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/reflective.webp"
+    },
+    "h1": [
+      "تركيب زجاج عاكس للحرارة في الرياض"
+    ],
+    "h2": [
+      "تركيب زجاج عاكس للحرارة في الرياض",
+      "جميع استخدامات الزجاج العاكس التي نركبها",
+      "هل تريد تركيب زجاج عاكس لواجهة مشروعك؟"
+    ],
+    "h3": [
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "واجهات زجاجية عاكسة",
+      "زجاج عاكس للمحلات",
+      "زجاج عاكس للقصور",
+      "زجاج عاكس للفلل",
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/types/reflective.webp",
+        "alt": "تركيب زجاج عاكس بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على استشارة مجانية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "تركيب درابزين زجاجي"
+      },
+      {
+        "href": "reflective-glass.html",
+        "text": "تركيب زجاج عاكس"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الزجاج العاكس",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "خدماتنا",
+            "item": "https://almasa-glass.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "زجاج عاكس للحرارة",
+            "item": "https://almasa-glass.com/services/reflective-glass.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "تركيب زجاج عاكس بالرياض",
+        "description": "خدمة تركيب زجاج عاكس للحرارة والطاقة للواجهات الخارجية والمباني في الرياض",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "telephone": "+966554493452"
+        },
+        "serviceType": "تركيب زجاج عاكس",
+        "areaServed": "الرياض"
+      }
+    ],
+    "word_count": 244,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب زجاج عاكس للحرارة في الرياض تصميم وتركيب زجاج عاكس للواجهات الخارجية والمباني الحديثة الرئيسية / الخدمات / زجاج عاكس خدمتنا تركيب زجاج عاكس للحرارة في الرياض في الماسة للزجاج، نقدم خدمة تركيب زجاج عاكس احترافية في الرياض. يعد الزجاج العاكس الخيار الأمثل للواجهات الخارجية التي تتطلب عزل حراري وتوفير الطاقة. نستخدم أجود أنواع الزجاج العاكس لضمان واجهات زجاجية عصرية ومتينة. فريقنا من فنيي الزجاج العاكس يضمن لك تنفيذاً احترافياً. تركيب زجاج عاكس للواجهات تركيب زجاج عاكس للمباني التجارية تركيب زجاج عاكس للفلل ضمان 5 سنوات على التركيب احصل على استشارة مجانية استخدامات الزجاج العاكس جميع استخدامات الزجاج العاكس التي نركبها نركب الزجاج العاكس في جميع أنحاء الرياض حسب احتياجاتك واجهات زجاجية عاكسة واجهات زجاجية عاكسة للمباني الحديثة زجاج عاكس للمحلات واجهات زجاجية عاكسة للمحلات التجارية زجاج عاكس للقصور واجهات زجاجية عاكسة فاخرة للقصور زجاج عاكس للفلل واجهات زجاجية عاكسة عصرية للفلل هل تريد تركيب زجاج عاكس لواجهة مشروعك؟ تواصل مع فريق الماسة للزجاج للحصول على استشارة مجانية تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي تركيب زجاج عاكس معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/security-glass.html": {
+    "file": "services/security-glass.html",
+    "title": "تركيب زجاج سيكوريت بالرياض | الماسة للزجاج - أفضل شركة زجاج أمان",
+    "description": "أفضل خدمات تركيب زجاج سيكوريت وأمان مقسى بالرياض للمباني والواجهات والدرابزين لمقاومة الصدمات وتوفير أقصى درجات الحماية والسلامة.",
+    "keywords": "زجاج سيكوريت, تركيب زجاج سيكوريت بالرياض, زجاج أمان, زجاج مقسى, زجاج سيكوريت للحمامات, فني زجاج سيكوريت, عامل زجاج سيكوريت, شركة زجاج سيكوريت",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/security-glass.html",
+    "og": {
+      "og:title": "تركيب زجاج سيكوريت بالرياض | الماسة للزجاج - أفضل شركة زجاج أمان",
+      "og:description": "زجاج سيكوريت وأمان بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/security-glass.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/security.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب زجاج سيكوريت بالرياض | الماسة للزجاج - أفضل شركة زجاج أمان",
+      "twitter:description": "زجاج سيكوريت وأمان بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/security.webp"
+    },
+    "h1": [
+      "تركيب زجاج سيكوريت وأمان في الرياض"
+    ],
+    "h2": [
+      "تركيب زجاج سيكوريت وأمان في الرياض",
+      "جميع استخدامات الزجاج السيكوريت التي نركبها",
+      "هل تريد تركيب زجاج سيكوريت لمشروعك؟"
+    ],
+    "h3": [
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "زجاج سيكوريت للحمامات",
+      "زجاج سيكوريت للشاور",
+      "زجاج سيكوريت للدرابزين",
+      "زجاج سيكوريت للمباني",
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/types/security.webp",
+        "alt": "تركيب زجاج سيكوريت بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على استشارة مجانية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "تركيب درابزين زجاجي"
+      },
+      {
+        "href": "security-glass.html",
+        "text": "تركيب زجاج سيكوريت"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الزجاج السيكوريت",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "خدماتنا",
+            "item": "https://almasa-glass.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "زجاج سيكوريت وأمان",
+            "item": "https://almasa-glass.com/services/security-glass.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "تركيب زجاج سيكوريت بالرياض",
+        "description": "خدمة تركيب زجاج سيكوريت وأمان للحمامات والشاور والمباني في الرياض",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "telephone": "+966554493452"
+        },
+        "serviceType": "تركيب زجاج سيكوريت",
+        "areaServed": "الرياض"
+      }
+    ],
+    "word_count": 240,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب زجاج سيكوريت وأمان في الرياض خدمة احترافية لتركيب زجاج سيكوريت للحمامات والشاور والمباني الرئيسية / الخدمات / زجاج سيكوريت خدمتنا تركيب زجاج سيكوريت وأمان في الرياض في الماسة للزجاج، نقدم خدمة تركيب زجاج سيكوريت احترافية في الرياض. يعتبر الزجاج السيكوريت (المقسى) الخيار الأمثل للأماكن التي تتطلب الأمان والمتانة. نستخدم أجود أنواع الزجاج السيكوريت المعتمد لضمان زجاج أمان متين وآمن. فريقنا من فنيي الزجاج السيكوريت يضمن لك تنفيذاً احترافياً. تركيب زجاج سيكوريت للحمامات تركيب زجاج سيكوريت للشاور تركيب زجاج سيكوريت للمباني ضمان 5 سنوات على التركيب احصل على استشارة مجانية استخدامات الزجاج السيكوريت جميع استخدامات الزجاج السيكوريت التي نركبها نركب الزجاج السيكوريت في جميع أنحاء الرياض حسب احتياجاتك زجاج سيكوريت للحمامات زجاج سيكوريت للحمامات آمن ومتين زجاج سيكوريت للشاور كبائن شاور زجاجية سيكوريت آمنة زجاج سيكوريت للدرابزين درابزين زجاجي سيكوريت للسلالم زجاج سيكوريت للمباني واجهات زجاجية سيكوريت للمباني التجارية هل تريد تركيب زجاج سيكوريت لمشروعك؟ تواصل مع فريق الماسة للزجاج للحصول على استشارة مجانية تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي تركيب زجاج سيكوريت معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/showers.html": {
+    "file": "services/showers.html",
+    "title": "تركيب شورات زجاجية بالرياض | الماسة للزجاج - أفضل كبائن شاور زجاجية",
+    "description": "أفضل خدمات تركيب شورات وكبائن زجاجية بالرياض للحمامات بأحدث التصاميم العصرية وإكسسوارات الستانلس ستيل المقاومة للماء والصدأ.",
+    "keywords": "شورات زجاجية, تركيب شورات زجاجية بالرياض, كبائن شاور زجاجية, شورات سيكوريت, حمامات زجاجية, فني شورات زجاج, مقاول شورات زجاجية, شركة شورات زجاجية",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/showers.html",
+    "og": {
+      "og:title": "تركيب شورات زجاجية بالرياض | الماسة للزجاج - أفضل كبائن شاور زجاجية",
+      "og:description": "شورات زجاجية (كبائن شاور) بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/showers.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/frosted.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب شورات زجاجية بالرياض | الماسة للزجاج - أفضل كبائن شاور زجاجية",
+      "twitter:description": "شورات زجاجية (كبائن شاور) بالرياض من الماسة للزجاج. تنفيذ وتوريد بأعلى معايير الإتقان والدقة.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/frosted.webp"
+    },
+    "h1": [
+      "تركيب شورات زجاجية بالرياض"
+    ],
+    "h2": [
+      "تركيب شورات زجاجية عصرية في الرياض",
+      "جميع أنواع الشورات الزجاجية التي نركبها",
+      "هل تريد تركيب شورات زجاجية في حمامك؟"
+    ],
+    "h3": [
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "شورات زجاجية بدون إطار",
+      "شورات زجاجية بإطار",
+      "شورات زجاجية للقصور",
+      "شورات زجاجية للفنادق",
+      "روابط سريعة",
+      "خدماتنا",
+      "معلومات الاتصال"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/frosted.webp",
+        "alt": "تركيب شورات زجاجية بالرياض",
+        "width": "600",
+        "height": "400",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/map.webp",
+        "alt": "الموقع",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "احصل على استشارة مجانية"
+      },
+      {
+        "href": "/contact.html",
+        "text": "تواصل معنا الآن"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "تركيب زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "تركيب واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "تركيب شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "تركيب درابزين زجاجي"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://api.whatsapp.com/send?phone=966554493452&text=مرحبًا، أريد الاستفسار عن تركيب الشورات الزجاجية",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      },
+      {
+        "href": "https://maps.app.goo.gl/ofqh7pTU5RukD6zEA",
+        "text": "الموقع"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "الرئيسية",
+            "item": "https://almasa-glass.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "خدماتنا",
+            "item": "https://almasa-glass.com/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "شورات زجاجية (كبائن شاور)",
+            "item": "https://almasa-glass.com/services/showers.html"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "تركيب شورات زجاجية بالرياض",
+        "description": "خدمة تركيب كبائن شاور زجاجية للحمامات في الرياض بأعلى جودة",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "الماسة للزجاج",
+          "telephone": "+966554493452"
+        },
+        "serviceType": "تركيب شورات زجاجية",
+        "areaServed": "الرياض"
+      }
+    ],
+    "word_count": 239,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب شورات زجاجية بالرياض تصميم وتركيب كبائن شاور زجاجية فاخرة للحمامات الرئيسية / الخدمات / شورات زجاجية خدمتنا تركيب شورات زجاجية عصرية في الرياض في الماسة للزجاج، نقدم خدمة تركيب شورات زجاجية احترافية في الرياض. تعتبر كبائن الشاور الزجاجية من أهم عناصر الحمامات الحديثة التي تضفي فخامة وأناقة. نستخدم أجود أنواع الزجاج السيكوريت لضمان شورات زجاجية آمنة ومتينة. فريقنا من فنيي الشورات الزجاجية يضمن لك تنفيذاً احترافياً. تركيب كبائن شاور زجاجية تركيب شورات زجاجية للحمامات تصاميم عصرية حسب الطلب ضمان 5 سنوات على التركيب احصل على استشارة مجانية أنواع الشورات الزجاجية جميع أنواع الشورات الزجاجية التي نركبها نركب جميع أنواع الشورات الزجاجية في الرياض حسب احتياجاتك شورات زجاجية بدون إطار تصاميم عصرية بدون إطار للحمامات الفاخرة شورات زجاجية بإطار شورات زجاجية بإطارات متينة وأنيقة شورات زجاجية للقصور شورات زجاجية فاخرة للقصور والفلل شورات زجاجية للفنادق شورات زجاجية فاخرة للفنادق والمنتجعات هل تريد تركيب شورات زجاجية في حمامك؟ تواصل مع فريق الماسة للزجاج للحصول على استشارة مجانية تواصل معنا الآن الماسة للزجاج نحن في الماسة للزجاج نقدم حلولاً زجاجية فاخرة لجميع المشاريع في الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا تركيب زجاج سكريت تركيب واجهات زجاجية تركيب شورات زجاجية تركيب درابزين زجاجي معلومات الاتصال +966 55 449 3452 +966 55 449 3452 حي الفيصيلية، الرياض © 2026 الماسة للزجاج - جميع الحقوق محفوظة تصميم وتطوير باسم الشهاري واتساب اتصال الموقع أعلى"
+  },
+  "services/tinted-glass.html": {
+    "file": "services/tinted-glass.html",
+    "title": "تركيب زجاج مظلل وملون بالرياض | الماسة للزجاج - عزل حراري وحماية",
+    "description": "خدمات توريد وتركيب زجاج مظلل وملون بالرياض للواجهات والنوافذ والفلل والمباني. خيارات متعددة لعزل الحرارة وأشعة الشمس مع لمسة معمارية أنيقة وخصوصية فائقة.",
+    "keywords": "زجاج مظلل بالرياض, تركيب زجاج ملون, زجاج عازل للحرارة, زجاج واجهات ملون, فني زجاج مظلل الرياض, زجاج رمادي زجاج بني",
+    "robots": "index, follow",
+    "canonical": "https://almasa-glass.com/services/tinted-glass.html",
+    "og": {
+      "og:title": "تركيب زجاج مظلل وملون بالرياض | الماسة للزجاج",
+      "og:description": "توريد وتركيب زجاج مظلل وملون بالرياض للواجهات والنوافذ بعزل حراري ممتاز ومظهر فخم.",
+      "og:type": "website",
+      "og:url": "https://almasa-glass.com/services/tinted-glass.html",
+      "og:image": "https://almasa-glass.com/assets/images/types/tinted.webp",
+      "og:site_name": "الماسة للزجاج",
+      "og:locale": "ar_SA"
+    },
+    "twitter": {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "تركيب زجاج مظلل وملون بالرياض | الماسة للزجاج",
+      "twitter:description": "تركيب زجاج مظلل وملون بالرياض للواجهات والنوافذ بتصاميم عصرية وعزل حراري فائق.",
+      "twitter:image": "https://almasa-glass.com/assets/images/types/tinted.webp"
+    },
+    "h1": [
+      "تركيب زجاج مظلل وملون بالرياض"
+    ],
+    "h2": [
+      "زجاج مظلل وملون عازل للحرارة في الرياض",
+      "استخدامات الزجاج المظلل والملون",
+      "هل ترغب في تركيب زجاج مظلل أو ملون بالرياض؟"
+    ],
+    "h3": [
+      "واجهات الفلل والمباني",
+      "حماية الأثاث الداخلي",
+      "درابزين بلكونات مظلل",
+      "كفاءة في استهلاك الطاقة",
+      "الماسة للزجاج"
+    ],
+    "h4": [
+      "روابط سريعة",
+      "خدماتنا",
+      "تواصل معنا"
+    ],
+    "imgs": [
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "logo",
+        "width": "40",
+        "height": "40",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder.png'"
+      },
+      {
+        "src": "../assets/images/types/tinted.webp",
+        "alt": "تركيب زجاج مظلل وملون بالرياض",
+        "width": "600",
+        "height": "502",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/placeholder-type.jpg'"
+      },
+      {
+        "src": "../assets/images/logo.webp",
+        "alt": "الماسة للزجاج",
+        "class": "footer-logo",
+        "width": "45",
+        "height": "45",
+        "loading": "lazy",
+        "onerror": "this.src='../assets/images/logo-placeholder-white.png'"
+      },
+      {
+        "src": "../assets/images/whatsapp.webp",
+        "alt": "واتساب",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/call.webp",
+        "alt": "اتصال",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      },
+      {
+        "src": "../assets/images/up.webp",
+        "alt": "أعلى",
+        "class": "float-icon",
+        "width": "24",
+        "height": "24",
+        "loading": "lazy"
+      }
+    ],
+    "internal_links": [
+      {
+        "href": "/",
+        "text": "الماسة للزجاج"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/services/",
+        "text": "الخدمات"
+      },
+      {
+        "href": "/contact.html",
+        "text": "طلب عرض سعر واستشارة"
+      },
+      {
+        "href": "/",
+        "text": "الرئيسية"
+      },
+      {
+        "href": "/about.html",
+        "text": "من نحن"
+      },
+      {
+        "href": "/services/",
+        "text": "خدماتنا"
+      },
+      {
+        "href": "/projects.html",
+        "text": "المشاريع"
+      },
+      {
+        "href": "/faq.html",
+        "text": "الأسئلة"
+      },
+      {
+        "href": "/contact.html",
+        "text": "اتصل بنا"
+      },
+      {
+        "href": "frosted-glass.html",
+        "text": "زجاج سكريت"
+      },
+      {
+        "href": "clear-glass.html",
+        "text": "واجهات زجاجية"
+      },
+      {
+        "href": "showers.html",
+        "text": "شورات زجاجية"
+      },
+      {
+        "href": "railings.html",
+        "text": "درابزين زجاج"
+      },
+      {
+        "href": "glass-doors.html",
+        "text": "أبواب زجاجية"
+      },
+      {
+        "href": "partitions.html",
+        "text": "قواطع وفواصل زجاجية"
+      },
+      {
+        "href": "mirrors.html",
+        "text": "مرايا ديكورية"
+      }
+    ],
+    "external_links": [
+      {
+        "href": "tel:+966554493452",
+        "text": "+966 55 449 3452"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "تواصل معنا عبر الواتساب"
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": ""
+      },
+      {
+        "href": "https://wa.me/966554493452",
+        "text": "واتساب"
+      },
+      {
+        "href": "tel:+966554493452",
+        "text": "اتصال"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "تركيب زجاج مظلل وملون بالرياض",
+            "description": "خدمة توريد وتركيب زجاج مظلل وملون عازل للحرارة والشمس للواجهات والمباني بالرياض",
+            "provider": {
+              "@type": "LocalBusiness",
+              "name": "الماسة للزجاج",
+              "telephone": "+966554493452",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "الرياض",
+                "addressRegion": "الرياض",
+                "addressCountry": "SA"
+              }
+            },
+            "serviceType": "تركيب زجاج مظلل",
+            "areaServed": "الرياض"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "الرئيسية",
+                "item": "https://almasa-glass.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "الخدمات",
+                "item": "https://almasa-glass.com/services/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "زجاج مظلل وملون",
+                "item": "https://almasa-glass.com/services/tinted-glass.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "word_count": 303,
+    "full_text": "الماسة للزجاج الرئيسية خدماتنا من نحن المشاريع الأسئلة اتصل بنا +966 55 449 3452 تركيب زجاج مظلل وملون بالرياض حلول متطورة لتخفيف وهج الشمس والحرارة مع إضفاء فخامة عصرية على الواجهات والنوافذ الرئيسية / الخدمات / زجاج مظلل وملون حماية وجمال معماري زجاج مظلل وملون عازل للحرارة في الرياض في الماسة للزجاج، نوفر خدمات تفصيل وتركيب الزجاج المظلل والملون بمواصفات مطابقة لمناخ مدينة الرياض. يساعد الزجاج المظلل في امتصاص جزء كبير من أشعة الشمس المباشرة وتقليل الحرارة النافذة للداخل، مما يسهم في خفض استهلاك أجهزة التكييف ورفع كفاءة الطاقة للمبنى. يتوفر لدينا بمجموعة واسعة من الألوان الجذابة مثل الرمادي (Smoke Gray)، والبرونزي (Bronze)، والأزرق، والأخضر، وبسماكات سكريت متعددة تلبي متطلبات المشاريع السكنية والتجارية. تقليل وهج الشمس الحارق والأشعة فوق البنفسجية تعزيز الخصوصية النهارية دون حجب الرؤية الخارجية خيارات متعددة للنوافذ والواجهات والدرابزين والقواطع زجاج سكريت مقسّى معتمد يتحمل الضغوط الجوية والصدمات طلب عرض سعر واستشارة مزايا الزجاج المظلل استخدامات الزجاج المظلل والملون تطبيقات واسعة تلبي رغبات التصميم الحديث وتوفر الراحة الداخلية واجهات الفلل والمباني مظهر معماري أنيق يحمي واجهات المباني من حرارة الصيف ويوفر لمسة داكنة فاخرة حماية الأثاث الداخلي تقليل الأشعة الضارة التي تسبب بهتان ألوان المفروشات والأرضيات الخشبية درابزين بلكونات مظلل يمنح الشرفات والبلكونات مظهراً عصرياً جذاباً وخصوصية مريحة للجلسات الخارجية كفاءة في استهلاك الطاقة تقليل العبء على أجهزة التكييف بفضل التظليل الطبيعي المدمج في الزجاج هل ترغب في تركيب زجاج مظلل أو ملون بالرياض؟ فريق الماسة للزجاج مستعد لمعاينة مشروعك واقتراح الألوان والسماكات الأنسب تواصل معنا عبر الواتساب الماسة للزجاج نحن في الماسة للزجاج نقدم حلول الزجاج السكريت والمظلل والواجهات في كافة مناطق الرياض. روابط سريعة الرئيسية من نحن خدماتنا المشاريع الأسئلة اتصل بنا خدماتنا زجاج سكريت واجهات زجاجية شورات زجاجية درابزين زجاج أبواب زجاجية قواطع وفواصل زجاجية مرايا ديكورية تواصل معنا الرياض، حي الفيصيلية +966 55 449 3452 info@almasa-glass.com © 2026 الماسة للزجاج. جميع الحقوق محفوظة. واتساب اتصال أعلى"
+  }
+}
