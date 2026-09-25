@@ -289,6 +289,63 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 800);
     };
 
+    // ============================================================ //
+    // 9. عارض الصور المنبثق الخفيف (Pure Vanilla Lightbox)        //
+    // ============================================================ //
+    function initVanillaLightbox() {
+        var lightboxLinks = document.querySelectorAll('a[data-lightbox]');
+        if (!lightboxLinks.length) return;
+
+        var overlay = document.createElement('div');
+        overlay.className = 'v-lightbox-overlay';
+        overlay.setAttribute('role', 'dialog');
+        overlay.setAttribute('aria-modal', 'true');
+        overlay.setAttribute('aria-label', 'معاينة الصورة');
+        overlay.innerHTML = 
+            '<div class="v-lightbox-container">' +
+                '<button class="v-lightbox-close" aria-label="إغلاق">&times;</button>' +
+                '<img class="v-lightbox-img" src="" alt="">' +
+                '<div class="v-lightbox-caption"></div>' +
+            '</div>';
+        document.body.appendChild(overlay);
+
+        var img = overlay.querySelector('.v-lightbox-img');
+        var caption = overlay.querySelector('.v-lightbox-caption');
+        var closeBtn = overlay.querySelector('.v-lightbox-close');
+
+        function close() {
+            overlay.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        function open(src, title) {
+            img.src = src;
+            img.alt = title || 'معاينة الصورة';
+            caption.textContent = title || '';
+            overlay.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        lightboxLinks.forEach(function(link) {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                var src = this.getAttribute('href');
+                var title = this.getAttribute('data-title') || (this.querySelector('img') ? this.querySelector('img').getAttribute('alt') : '');
+                open(src, title);
+            });
+        });
+
+        closeBtn.addEventListener('click', close);
+        overlay.addEventListener('click', function(e) {
+            if (e.target === overlay) close();
+        });
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && overlay.classList.contains('active')) close();
+        });
+    }
+
+    initVanillaLightbox();
+
     console.log('✅ تم تحميل موقع الماسة للزجاج بنجاح');
 
 });
